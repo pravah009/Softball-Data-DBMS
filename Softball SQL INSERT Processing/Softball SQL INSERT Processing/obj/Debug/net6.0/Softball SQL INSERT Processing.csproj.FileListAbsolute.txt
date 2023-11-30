@@ -1,0 +1,15 @@
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\bin\Debug\net6.0\Softball SQL INSERT Processing.exe
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\bin\Debug\net6.0\Softball Match Data 99-22.csv
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\bin\Debug\net6.0\Softball SQL INSERT Processing.deps.json
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\bin\Debug\net6.0\Softball SQL INSERT Processing.runtimeconfig.json
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\bin\Debug\net6.0\Softball SQL INSERT Processing.dll
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\bin\Debug\net6.0\Softball SQL INSERT Processing.pdb
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\obj\Debug\net6.0\Softball SQL INSERT Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\obj\Debug\net6.0\Softball SQL INSERT Processing.AssemblyInfoInputs.cache
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\obj\Debug\net6.0\Softball SQL INSERT Processing.AssemblyInfo.cs
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\obj\Debug\net6.0\Softball SQL INSERT Processing.csproj.CoreCompileInputs.cache
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\obj\Debug\net6.0\Softball SQL INSERT Processing.dll
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\obj\Debug\net6.0\refint\Softball SQL INSERT Processing.dll
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\obj\Debug\net6.0\Softball SQL INSERT Processing.pdb
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\obj\Debug\net6.0\Softball SQL INSERT Processing.genruntimeconfig.cache
+C:\Users\malun\source\repos\Softball-Data-DBMS\Softball SQL INSERT Processing\Softball SQL INSERT Processing\obj\Debug\net6.0\ref\Softball SQL INSERT Processing.dll

@@ -1,0 +1,1194 @@
+﻿mchDate,mchTime,mchType,oppName,locName,locState,trnName,-=winLoss,-runTerps',-runOpponents'
+1999-02-05,12:00:00,Home,Florida Atlantic,South Florida,FL,,L,2,3
+1999-02-05,15:00:00,Away,Georgia,Tampa,FL,Louisville Slugger Tournament,W,6,5
+1999-02-06,18:00:00,Home,NorthweStrn,South Florida,FL,,L,2,6
+1999-02-06,12:45:00,Away,Florida Atlantic,Tampa,FL,Louisville Slugger Tournament,W,3,2
+1999-02-12,13:00:00,Home,Nebraska,Arizona State,AZ,,L,1,3
+1999-02-13,9:00:00,Home,Alabama,Arizona State,AZ,,W,3,2
+1999-02-14,10:00:00,Home,Utah,Phoenix,AZ,Arizona State Coca-Cola Classic,W,5,1
+1999-02-14,12:00:00,Home,Georgia,Arizona State,AZ,,W,9,4
+1999-02-19,10:00:00,Home,Ohio,North Carolina,NC,,W,4,3
+1999-02-20,11:00:00,Home,Temple,North Carolina,NC,,W,3,1
+1999-03-04,18:00:00,Home,UIC,South Florida,FL,,L,1,2
+1999-03-05,18:00:00,Home,South Carolina,South Florida,FL,,L,1,3
+1999-03-06,12:00:00,Home,Alabama,South Florida,FL,,L,3,7
+1999-03-13,12:00:00,Home,Florida Atlantic,Florida State,FL,,W,10,1
+1999-03-20,13:00:00,Home,Long Island,College Park,MD,,W,7,1
+1999-03-24,17:30:00,Away,Florida St,Florida State,FL,,W,5,3
+1999-03-26,15:00:00,Home,Campbell,Georgia Tech,GA,,W,7,2
+1999-03-26,20:00:00,Home,Ohio St,Atlanta,GA,Buzz Classic,W,11,3
+1999-03-31,17:30:00,Home,UMBC,UMBC,MD,,W,6,2
+1999-04-03,16:00:00,Home,Towson,College Park,MD,,W,5,2
+1999-04-07,15:00:00,Home,Hofstra,College Park,MD,,W,3,2
+1999-04-07,18:00:00,Home,Hofstra,College Park,MD,,W,9,3
+1999-04-09,16:00:00,Home,Georgia Tech,College Park,MD,,W,2,1
+1999-04-16,15:00:00,Home,Charlotte,College Park,MD,,W,2,1
+1999-04-18,13:30:00,Home,North Carolina,College Park,MD,,W,9,3
+1999-04-18,15:30:00,Home,North Carolina,College Park,MD,,W,5,4
+1999-04-24,13:00:00,Away,Virginia,Virginia,VA,,L,2,5
+1999-05-02,13:00:00,Away,South Florida,South Florida,FL,,W,2,1
+1999-05-02,16:00:00,Away,South Florida,South Florida,FL,,W,5,3
+1999-05-08,12:00:00,Home,Princeton,College Park,MD,,W,3,2
+1999-05-08,15:00:00,Home,Princeton,College Park,MD,,W,4,3
+1999-05-22,14:30:00,Away,Arizona,Tucson,AZ,NCAA Regional,W,7,3
+2000-02-18,12:00:00,Away,Liberty,Raleigh,NC,Triangle Classic Tournament,W,5,0
+2000-02-18,14:00:00,Away,Boston,Raleigh,NC,Triangle Classic Tournament,W,7,1
+2000-02-19,10:00:00,Away,Campbell,Raleigh,NC,Triangle Classic Tournament,W,6,1
+2000-02-19,14:00:00,Away,Ohio,Raleigh,NC,Triangle Classic Tournament,W,5,4
+2000-02-20,12:00:00,Away,UIC,Raleigh,NC,Triangle Classic Tournament,L,2,3
+2000-03-04,13:00:00,Home,Princeton,College Park,MD,Terrapin Invitational,W,6,5
+2000-03-04,15:00:00,Home,Connecticut,College Park,MD,Terrapin Invitational,W,7,2
+2000-03-05,11:00:00,Home,Connecticut,College Park,MD,Terrapin Invitational,W,6,3
+2000-03-05,15:00:00,Home,La Salle,College Park,MD,Terrapin Invitational,W,8,3
+2000-03-09,15:00:00,Away,Hofstra,Tampa,FL,Speedline Invitational Tournament,W,6,5
+2000-03-10,10:00:00,Away,Purdue,Tampa,FL,Speedline Invitational Tournament,W,2,0
+2000-03-10,12:00:00,Away,Illinois-Chicago,Tampa,FL,Speedline Invitational Tournament,W,4,3
+2000-03-11,10:00:00,Away,Connecticut,Tampa,FL,Speedline Invitational Tournament,W,2,0
+2000-03-17,10:00:00,Away,Bethune Cookman,Tallahassee,FL,Lady Seminole Invitational,W,7,3
+2000-03-17,12:00:00,Away,Northern Iowa,Tallahassee,FL,Lady Seminole Invitational,W,7,1
+2000-03-17,18:00:00,Away,Virginia Tech,Tallahassee,FL,Lady Seminole Invitational,W,10,2
+2000-03-18,12:45:00,Away,Georgia Southern,Tallahassee,FL,Lady Seminole Invitational,W,7,6
+2000-03-18,12:45:00,Away,Kansas,Tallahassee,FL,Lady Seminole Invitational,W,6,5
+2000-03-21,14:00:00,Away,Georgia Tech,Atlanta,GA,,W,7,3
+2000-03-21,16:00:00,Away,Georgia Tech,Atlanta,GA,,W,9,5
+2000-03-24,11:00:00,Away,Harvard,Marietta,GA,Buzz Classic,W,6,3
+2000-03-24,15:00:00,Away,SW Missouri St,Marietta,GA,Buzz Classic,L,4,5
+2000-03-25,12:30:00,Away,Coastal Carolina,Marietta,GA,Buzz Classic,W,8,3
+2000-03-25,20:00:00,Away,Florida A&M,Marietta,GA,Buzz Classic,W,6,3
+2000-03-26,12:45:00,Away,SW Missouri St,Marietta,GA,Buzz Classic,W,4,2
+2000-03-30,14:30:00,Home,Morgan St,College Park,MD,,W,8,1
+2000-03-30,16:30:00,Home,Morgan St,College Park,MD,,W,15,1
+2000-04-01,13:00:00,Home,Penn St,College Park,MD,,W,5,0
+2000-04-01,15:00:00,Home,Penn St,College Park,MD,,W,6,1
+2000-04-07,18:00:00,Away,Long Island,Brooklyn,NY,,W,4,1
+2000-04-07,20:00:00,Away,Long Island,Brooklyn,NY,,W,5,1
+2000-04-12,15:30:00,Home,Towson,College Park,MD,,W,4,2
+2000-04-12,17:30:00,Home,Towson,College Park,MD,,W,4,1
+2000-04-14,15:00:00,Home,North Carolina,Chapel Hill,NC,,L,2,3
+2000-04-16,13:00:00,Away,East Carolina,Greenville,NC,,L,3,4
+2000-04-22,13:00:00,Home,Virginia,College Park,MD,,W,5,3
+2000-04-29,12:35:00,Away,Florida St,Tallahassee,FL,ACC Tournament,L,2,6
+2000-04-30,13:00:00,Away,Georgia Tech,Tallahassee,FL,ACC Tournament,W,2,1
+2000-04-30,17:00:00,Away,North Carolina,Tallahassee,FL,ACC Tournament,W,4,3
+2000-05-04,15:00:00,Home,Florida St,College Park,MD,,L,3,10
+2000-05-04,17:00:00,Home,Florida St,College Park,MD,,L,2,3
+2000-05-06,16:00:00,Away,Princeton,Princeton,NJ,,L,4,5
+2001-02-16,11:00:00,Away,Notre Dame,Tampa,FL,USF-Holiday Inn Tournament,L,1,4
+2001-02-16,13:00:00,Away,Washington,Tampa,FL,USF-Holiday Inn Tournament,L,5,10
+2001-02-17,18:00:00,Away,Hofstra,Tampa,FL,USF-Holiday Inn Tournament,W,2,1
+2001-02-17,20:00:00,Away,South Carolina,Tampa,FL,USF-Holiday Inn Tournament,W,4,3
+2001-02-18,14:00:00,Away,South Florida,Tampa,FL,USF-Holiday Inn Tournament,L,2,4
+2001-02-23,13:00:00,Away,Florida A&M,Boca Raton,FL,Florida Atlantic Invitational,W,5,1
+2001-02-24,13:00:00,Away,Florida St,Boca Raton,FL,Florida Atlantic Invitational,L,3,5
+2001-02-25,8:00:00,Away,Florida A&M,Boca Raton,FL,Florida Atlantic Invitational,W,4,3
+2001-02-25,10:00:00,Away,Florida Atlantic,Boca Raton,FL,Florida Atlantic Invitational,L,1,4
+2001-03-02,15:00:00,Home,Towson,College Park,MD,Terrapin Invitational,W,8,1
+2001-03-08,17:00:00,Away,UIC,Tampa,FL,Speedline Invitational,L,0,1
+2001-03-09,14:00:00,Away,Florida A&M,Tampa,FL,Speedline Invitational,W,4,1
+2001-03-10,12:00:00,Away,Oklahoma St,Tampa,FL,Speedline Invitational,W,3,1
+2001-03-14,14:30:00,Home,Monmouth Ill,College Park,MD,,L,1,3
+2001-03-14,16:30:00,Home,Monmouth Ill,College Park,MD,,W,2,1
+2001-03-16,12:00:00,Away,Troy St,Tallahassee,FL,Lady Seminole Invitational,W,5,4
+2001-03-17,17:30:00,Away,Syracuse,Tallahassee,FL,Lady Seminole Invitational,W,5,3
+2001-03-20,3:00:00,Home,Drexel,College Park,MD,,W,3,2
+2001-03-23,13:00:00,Away,Troy St,Marietta,GA,Buzz Classic,W,8,1
+2001-03-24,17:00:00,Away,Connecticut,Marietta,GA,Buzz Classic,W,6,2
+2001-03-28,14:30:00,Away,Morgan St,Baltimore,MD,,W,10,1
+2001-04-04,14:30:00,Home,UMBC,College Park,MD,,W,5,1
+2001-04-04,16:30:00,Home,UMBC,College Park,MD,,W,3,2
+2001-04-14,15:00:00,Home,George Mason,College Park,MD,,W,7,1
+2001-04-15,15:00:00,Home,Georgia Tech,College Park,MD,ACC/SASA Game,L,3,4
+2001-04-22,13:00:00,Away,Virginia,Charlottesville,VA,ACC/SASA Game,L,2,3
+2001-04-22,12:35:00,Away,Virginia,Charlottesville,VA,ACC/SASA Game,L,1,5
+2001-04-25,17:00:00,Away,Towson,Towson,MD,,L,4,5
+2001-04-29,13:00:00,Home,East Carolina,College Park,MD,ACC/SASA Game,W,3,2
+2001-04-29,15:00:00,Home,East Carolina,College Park,MD,ACC/SASA Game,W,4,3
+2001-05-05,14:00:00,Away,Florida St,Tallahassee,FL,ACC/SASA Game,L,1,10
+2001-05-11,17:00:00,Away,Florida St,Raleigh,NC,ACC Tournaments,L,1,2
+2001-05-12,15:00:00,Away,Virginia,Raleigh,NC,ACC Tournaments,W,3,1
+2002-02-08,12:00:00,Home,Evansville,Tuscaloosa,AL,Bama Bash,W,4,3
+2002-02-09,12:00:00,Away,Samford,Tuscaloosa,AL,Bama Bash,W,11,1
+2002-02-09,16:00:00,Home,Evansville,Tuscaloosa,AL,,L,2,4
+2002-02-15,12:00:00,Away,Penn St,Tallahassee,FL,Seminole Classic,W,5,1
+2002-02-15,14:00:00,Away,Syracuse,Tallahassee,FL,Seminole Classic,L,1,3
+2002-02-16,16:00:00,Away,Florida St,Tallahassee,FL,Seminole Classic,L,1,2
+2002-02-17,12:00:00,Away,Georgia,Tallahassee,FL,Seminole Classic,L,2,4
+2002-02-22,10:00:00,Away,Seton Hall,Tampa,FL,USF-Holiday Inn Tournament,W,7,2
+2002-03-07,13:00:00,Away,Michigan St,Plant City,FL,Speedline Invitational,W,2,1
+2002-03-07,15:00:00,Away,BYU,Plant City,FL,Speedline Invitational,W,10,8
+2002-03-08,12:00:00,Away,Georgia St,Plant City,FL,Speedline Invitational,W,4,3
+2002-03-09,12:35:00,Away,Houston,Plant City,FL,Speedline Invitational,W,3,0
+2002-03-14,16:30:00,Away,Delaware,Newark,DE,,W,7,3
+2002-03-15,13:00:00,Away,La Salle,Philadelphia,PA,,W,3,1
+2002-03-15,15:00:00,Away,La Salle,Philadelphia,PA,,W,11,2
+2002-03-22,15:00:00,Away,Michigan St,Marietta,GA,Buzz Classic,W,4,1
+2002-03-22,18:00:00,Away,Georgia St,Marietta,GA,Buzz Classic,W,4,3
+2002-03-23,9:00:00,Away,Elon,Marietta,GA,Buzz Classic,W,12,3
+2002-03-23,17:00:00,Away,WeStrn Kentucky,Marietta,GA,Buzz Classic,W,7,1
+2002-03-23,21:00:00,Away,Harvard,Marietta,GA,Buzz Classic,W,5,2
+2002-03-24,13:00:00,Away,Georgia Tech,Marietta,GA,Buzz Classic,L,1,2
+2002-03-26,14:00:00,Away,Georgia Tech,Atlanta,GA,,W,3,0
+2002-03-26,16:00:00,Away,Georgia Tech,Atlanta,GA,,W,4,0
+2002-03-29,14:00:00,Home,Brown,Fairfax,VA,,W,5,3
+2002-03-29,12:35:00,Away,Brown,Fairfax,VA,,W,4,0
+2002-03-30,13:00:00,Away,George Mason,Fairfax,VA,George Mason Spring Clash,W,2,1
+2002-03-30,17:00:00,Away,Brown,Fairfax,VA,George Mason Spring Clash,W,8,0
+2002-03-30,12:35:00,Away,Siena,Fairfax,VA,George Mason Spring Clash,W,6,0
+2002-03-31,12:45:00,Away,Siena,Fairfax,VA,George Mason Spring Clash,W,7,3
+2002-04-06,12:00:00,Away,Virginia,Chapel Hill,NC,UNC Tournament,L,5,7
+2002-04-06,14:00:00,Home,Georgia Tech,Chapel Hill,NC,,L,1,5
+2002-04-07,12:00:00,Away,North Carolina,Chapel Hill,NC,UNC Tournament,W,8,3
+2002-04-07,12:35:00,Away,North Carolina,Chapel Hill,NC,UNC Tournament,W,7,3
+2002-04-10,15:30:00,Home,Towson,College Park,MD,,W,7,0
+2002-04-10,17:30:00,Home,Towson,College Park,MD,,W,3,2
+2002-04-17,15:00:00,Away,George Mason,Fairfax,VA,,W,5,0
+2002-04-17,17:00:00,Away,George Mason,Fairfax,VA,,W,4,0
+2002-04-20,13:00:00,Home,Virginia,College Park,MD,,L,2,3
+2002-04-24,14:30:00,Home,St Josephs Pa,College Park,MD,,W,2,1
+2002-04-24,16:30:00,Home,St Josephs Pa,College Park,MD,,W,2,1
+2002-04-27,14:00:00,Away,North Carolina,Chapel Hill,NC,,W,3,0
+2002-04-27,16:00:00,Away,North Carolina,Chapel Hill,NC,,W,5,1
+2002-04-30,15:30:00,Away,Towson,Baltimore,MD,,W,1,0
+2002-04-30,17:30:00,Away,Towson,Baltimore,MD,,L,0,2
+2002-05-10,17:00:00,Away,Georgia Tech,Tallahassee,FL,ACC Tournament,L,0,1
+2002-05-11,11:00:00,Away,Virginia,Tallahassee,FL,ACC Tournament,L,1,4
+2003-02-14,12:00:00,Away,Boston College,Athens,GA,Univ of Georgia Tournament,L,2,4
+2003-02-14,14:00:00,Away,Drexel,Athens,GA,Univ of Georgia Tournament,W,2,1
+2003-02-15,14:00:00,Home,Georgia,Athens,GA,Univ of Georgia Tournament,L,2,6
+2003-02-15,18:00:00,Away,Boston College,Athens,GA,Univ of Georgia Tournament,W,3,1
+2003-02-21,9:00:00,Home,Seton Hall,Tampa,FL,USF-Best Western Tournament,L,1,2
+2003-02-21,11:00:00,Home,Indiana,Tampa,FL,USF-Best Western Tournament,W,2,1
+2003-02-23,9:00:00,Home,Radford,Tampa,FL,USF-Best Western Tournament,W,2,0
+2003-02-23,14:30:00,Home,South Florida,Tampa,FL,USF-Best Western Tournament,L,1,7
+2003-03-06,10:00:00,Home,Florida Atlantic ,Plant City,FL,Speedline Invitational,W,5,3
+2003-03-06,14:00:00,Home,UIC ,Plant City,FL,Speedline Invitational,L,2,6
+2003-03-07,16:00:00,Home,Oklahoma St ,Plant City,FL,Speedline Invitational,L,1,5
+2003-03-07,18:00:00,Home,Michigan St ,Plant City,FL,Speedline Invitational,L,0,9
+2003-03-08,14:00:00,Home,Tenn Chattanooga ,Plant City,FL,Speedline Invitational,W,7,0
+2003-03-22,10:00:00,Home,WeStrn Ky ,Marietta,GA,Buzz Classic,W,2,1
+2003-03-22,18:00:00,Home,Georgia Tech ,Marietta,GA,Buzz Classic,L,0,1
+2003-03-22,20:00:00,Home,Troy St ,Marietta,GA,Buzz Classic,W,8,5
+2003-03-23,13:00:00,Home,Tennessee Tech ,Marietta,GA,Buzz Classic,L,1,2
+2003-03-25,16:00:00,Away,Florida St,Tallahassee,FL,,L,2,6
+2003-03-25,18:00:00,Away,Florida St,Tallahassee,FL,,L,2,3
+2003-03-29,15:00:00,Home,Hofstra ,College Park,MD,Maryland Invitational,W,8,1
+2003-04-02,17:00:00,Home,George Mason,College Park,MD,,W,11,1
+2003-04-02,19:00:00,Home,George Mason,College Park,MD,,W,8,3
+2003-04-06,12:00:00,Home,Georgia Tech,College Park,MD,,L,1,5
+2003-04-06,14:00:00,Home,Georgia Tech,College Park,MD,,L,0,1
+2003-04-13,13:00:00,Home,Coppin St,College Park,MD,,W,4,0
+2003-04-13,15:00:00,Home,Coppin St,College Park,MD,,W,12,0
+2003-04-16,17:00:00,Home,James Madison,College Park,MD,,W,4,2
+2003-04-16,19:00:00,Home,James Madison,College Park,MD,,W,1,0
+2003-04-19,12:00:00,Away,Virginia,Charlottesville,VA,,L,0,3
+2003-04-19,14:00:00,Away,Virginia,Charlottesville,VA,,L,1,5
+2003-04-23,17:00:00,Home,Morgan St,College Park,MD,,W,8,0
+2003-04-23,19:00:00,Home,Morgan St,College Park,MD,,W,9,1
+2003-04-26,15:00:00,Home,North Carolina,College Park,MD,,W,2,0
+2003-04-26,17:00:00,Home,North Carolina,College Park,MD,,L,1,5
+2003-04-29,17:00:00,Home,George Washington,College Park,MD,,W,6,0
+2003-04-29,19:00:00,Home,George Washington,College Park,MD,,W,6,0
+2003-04-30,17:00:00,Home,Towson,College Park,MD,,W,3,0
+2003-04-30,19:00:00,Home,Towson,College Park,MD,,W,8,0
+2003-05-01,17:00:00,Home,Maryland-EaStrn Shore,College Park,MD,,W,11,0
+2003-05-01,19:00:00,Home,Maryland-EaStrn Shore,College Park,MD,,W,9,0
+2003-05-06,17:00:00,Home,UMBC,College Park,MD,,W,8,0
+2003-05-06,19:00:00,Home,UMBC,College Park,MD,,W,2,0
+2003-05-09,15:00:00,Home,Virginia,Tallahassee,FL,ACC Tournament,L,0,4
+2003-05-10,11:00:00,Away,North Carolina,Tallahassee,FL,ACC Tournament,W,9,8
+2003-05-10,17:00:00,Away,Virginia,Tallahassee,FL,ACC Tournament,L,3,6
+2004-02-20,10:00:00,Home,Tulsa,Tampa,FL,USF Best Western-All Suites Hotels Tournament,L,1,3
+2004-02-20,14:30:00,Home,Hofstra ,Tampa,FL,USF Best Western-All Suites Hotels Tournament,L,1,3
+2004-02-21,10:00:00,Home,Temple ,Tampa,FL,USF Best Western-All Suites Hotels Tournament,W,10,3
+2004-02-21,17:30:00,Home,Rhode Island ,Tampa,FL,USF Best Western-All Suites Hotels Tournament,W,15,0
+2004-02-22,9:00:00,Home,Temple ,Tampa,FL,USF Best Western-All Suites Hotels Tournament,W,14,4
+2004-02-27,13:30:00,Home,Michigan St ,Miami,FL,Golden Panthers adidas Tournament,L,1,4
+2004-02-27,18:30:00,Home,Florida International ,Miami,FL,Golden Panthers adidas Tournament,W,5,1
+2004-02-28,11:00:00,Home,Stony Brook ,Miami,FL,Golden Panthers adidas Tournament,L,0,1
+2004-02-28,18:30:00,Home,Florida International ,Miami,FL,Golden Panthers adidas Tournament,L,0,5
+2004-02-01,10:30:00,Home,Stony Brook ,Miami,FL,Golden Panthers adidas Tournament,W,6,3
+2004-03-05,10:00:00,Home,Ball St ,Athens,GA,Georgia Softball Classic,W,2,1
+2004-03-05,14:00:00,Home,UNC-Wilmington ,Athens,GA,Georgia Softball Classic,W,5,4
+2004-03-06,11:15:00,Home,Winthrop ,Athens,GA,Georgia Softball Classic,W,10,4
+2004-03-06,15:15:00,Home,Georgia ,Athens,GA,Georgia Softball Classic,L,0,5
+2004-03-07,14:00:00,Home,Georgia ,Athens,GA,Georgia Softball Classic,L,0,4
+2004-03-12,14:00:00,Home,Georgia St ,Tallahassee,FL,FSU Invitational,W,4,1
+2004-03-12,16:00:00,Home,Troy St ,Tallahassee,FL,FSU Invitational,L,3,8
+2004-03-13,12:00:00,Away,Notre Dame ,Tallahassee,FL,FSU Invitational,L,2,6
+2004-03-13,14:00:00,Home,Michigan ,Tallahassee,FL,FSU Invitational,L,0,6
+2004-03-13,17:00:00,Home,Saint Louis ,Tallahassee,FL,FSU Invitational,W,8,0
+2004-03-14,10:00:00,Home,North Carolina ,Tallahassee,FL,FSU Invitational,L,0,2
+2004-03-17,14:00:00,Home,Rutgers,College Park,MD,,W,6,4
+2004-03-17,16:00:00,Home,Rutgers,College Park,MD,,W,6,0
+2004-03-20,11:00:00,Home,Boston College ,College Park,MD,Maryland Invitational,L,2,3
+2004-03-20,13:00:00,Home,Maryland-EaStrn Shore ,College Park,MD,Maryland Invitational,W,9,0
+2004-03-21,12:00:00,Away,Brown ,College Park,MD,Maryland Invitational,L,1,3
+2004-03-27,13:00:00,Home,Pittsburgh ,College Park,MD,Terrapin Invitational,W,9,6
+2004-03-27,15:00:00,Home,Columbia ,College Park,MD,Terrapin Invitational,W,5,4
+2004-03-28,12:00:00,Home,Delaware St ,College Park,MD,Terrapin Invitational,W,4,3
+2004-03-28,16:00:00,Home,Pittsburgh ,College Park,MD,Terrapin Invitational,L,1,2
+2004-04-06,15:00:00,Away,George Mason,Fairfax,VA,,W,6,2
+2004-04-06,17:00:00,Away,George Mason,Fairfax,VA,,W,4,0
+2004-04-08,15:00:00,Home,St Joseph's,College Park,MD,,W,4,1
+2004-04-08,17:00:00,Home,St Joseph's,College Park,MD,,W,2,0
+2004-04-10,13:00:00,Away,North Carolina St,Raleigh,NC,,L,0,5
+2004-04-10,15:00:00,Away,North Carolina St,Raleigh,NC,,W,1,0
+2004-04-11,13:00:00,Away,North Carolina,Chapel Hill,NC,,L,0,1
+2004-04-11,15:00:00,Away,North Carolina,Chapel Hill,NC,,L,3,5
+2004-04-15,15:30:00,Home,St Francis Pa,College Park,MD,,W,9,0
+2004-04-15,17:30:00,Home,St Francis Pa,College Park,MD,,W,10,2
+2004-04-17,13:00:00,Away,James Madison,Harrisonburg,VA,,W,5,0
+2004-04-17,15:00:00,Away,James Madison,Harrisonburg,VA,,W,3,0
+2004-04-18,12:00:00,Home,Florida St,College Park,MD,,L,0,7
+2004-04-18,14:00:00,Home,Florida St,College Park,MD,,L,1,2
+2004-04-25,13:00:00,Home,Virginia,College Park,MD,,L,1,6
+2004-04-25,15:00:00,Home,Virginia,College Park,MD,,L,3,11
+2004-04-29,15:00:00,Away,Towson,Towson,MD,,W,3,1
+2004-04-29,17:00:00,Home,Towson,Towson,MD,,W,3,1
+2004-05-02,12:00:00,Away,Georgia Tech,Atlanta,GA,,L,2,10
+2004-05-02,14:00:00,Away,Georgia Tech,Atlanta,GA,,L,0,1
+2004-05-06,14:00:00,Away,Delaware,Newark,DE,,W,3,2
+2004-05-06,16:00:00,Away,Delaware,Newark,DE,,W,3,0
+2004-05-08,13:00:00,Home,Alabama,College Park,MD,,L,1,3
+2004-05-08,15:00:00,Home,Alabama,College Park,MD,,L,0,3
+2004-05-09,13:00:00,Home,Villanova,College Park,MD,,W,1,0
+2004-05-09,15:00:00,Home,Villanova,College Park,MD,,W,2,1
+2004-05-14,13:30:00,Away,Virginia ,Tallahassee,FL,ACC Tournament,W,5,3
+2004-05-14,19:30:00,Away,North Carolina ,Tallahassee,FL,ACC Tournament,L,2,7
+2004-05-15,12:30:00,Away,NC St ,Tallahassee,FL,ACC Tournament,W,6,0
+2004-05-15,17:30:00,Away,Georgia Tech ,Tallahassee,FL,ACC Tournament,L,4,6
+2005-02-18,12:00:00,Home,Missouri ,Tuscaloosa,AL,Crimson Classic,L,1,6
+2005-02-18,14:30:00,Away,Alabama ,Tuscaloosa,AL,Crimson Classic,L,0,7
+2005-02-19,12:00:00,Home,Penn St ,Tuscaloosa,AL,Crimson Classic,L,1,7
+2005-02-19,17:00:00,Home,Missouri ,Tuscaloosa,AL,Crimson Classic,W,3,2
+2005-02-20,14:00:00,Away,Alabama ,Tuscaloosa,AL,Crimson Classic,L,0,5
+2005-03-04,11:00:00,Away,UNC Greensboro ,Athens,GA,Red and Black Challenge,W,5,3
+2005-03-04,13:00:00,Away,Oakland ,Athens,GA,Red and Black Challenge,W,9,1
+2005-03-05,9:00:00,Away,Radford ,Athens,GA,Red and Black Challenge,L,1,3
+2005-03-05,13:00:00,Away,Georgia ,Athens,GA,Red and Black Challenge,W,5,4
+2005-03-06,14:00:00,Away,Georgia ,Athens,GA,Red and Black Challenge,L,0,5
+2005-03-11,13:00:00,Away,Georgia St ,Tallahassee,FL,Florida State Invitational,W,3,2
+2005-03-11,17:00:00,Away,Southern Illinois ,Tallahassee,FL,Florida State Invitational,L,1,3
+2005-03-12,13:00:00,Home,Florida A&M ,Tallahassee,FL,Florida State Invitational,W,2,1
+2005-03-12,15:00:00,Away,Troy St ,Tallahassee,FL,Florida State Invitational,L,2,6
+2005-03-13,11:00:00,Away,St Joseph's ,Tallahassee,FL,Florida State Invitational,W,3,0
+2005-03-19,11:00:00,Home,Mount St. Mary's ,College Park,MD,Maryland Invitational,W,5,1
+2005-03-19,13:00:00,Home,Binghamton ,College Park,MD,Maryland Invitational,W,5,3
+2005-03-20,12:00:00,Home,Columbia ,College Park,MD,Maryland Invitational,L,2,3
+2005-03-20,16:00:00,Home,Columbia ,College Park,MD,Maryland Invitational,W,5,1
+2005-03-25,15:00:00,Home,Virginia Tech,Blacksburg,VA,,L,0,5
+2005-03-31,14:00:00,Home,Maryland Eastern Shore ,College Park,MD,,W,9,0
+2005-03-31,16:00:00,Home,Maryland Eastern Shore ,College Park,MD,,W,9,0
+2005-04-06,17:00:00,Home,Delaware St ,College Park,MD,,W,10,1
+2005-04-06,19:00:00,Home,Delaware St ,College Park,MD,,W,5,1
+2005-04-09,12:00:00,Away,Virginia,Charlottesville,VA,,L,1,2
+2005-04-09,14:00:00,Home,Virginia,Charlottesville,VA,,W,1,0
+2005-04-10,12:00:00,Away,Virginia,Charlottesville,VA,,L,0,2
+2005-04-16,14:00:00,Away,Florida St,Tallahassee,FL,,L,0,1
+2005-04-16,16:00:00,Away,Florida St,Tallahassee,FL,,W,7,2
+2005-04-17,13:00:00,Away,Florida St,Tallahassee,FL,,L,0,2
+2005-04-23,13:00:00,Home,North Carolina,College Park,MD,,L,0,1
+2005-04-24,12:00:00,Home,North Carolina,College Park,MD,,L,2,3
+2005-04-24,13:00:00,Home,North Carolina,College Park,MD,,L,1,3
+2005-04-27,18:00:00,Home,Towson ,College Park,MD,,W,7,3
+2005-04-27,20:00:00,Home,Towson ,College Park,MD,,W,1,0
+2005-04-29,17:00:00,Home,Georgia Tech,College Park,MD,,L,2,3
+2005-04-29,19:00:00,Home,Georgia Tech,College Park,MD,,W,2,1
+2005-05-04,14:00:00,Home,Delaware ,College Park,MD,,L,0,2
+2005-05-04,16:00:00,Home,Delaware ,College Park,MD,,W,11,1
+2005-05-07,13:00:00,Home,George Mason ,College Park,MD,,W,3,0
+2005-05-07,15:00:00,Home,George Mason ,College Park,MD,,W,7,0
+2005-05-12,17:00:00,Home,Virginia ,College Park,MD,ACC Tournament,L,4,5
+2005-05-13,13:30:00,Home,Florida St ,College Park,MD,ACC Tournament,W,2,0
+2005-05-13,19:30:00,Home,NC St ,College Park,MD,ACC Tournament,W,3,2
+2005-05-14,15:30:00,Home,Virginia Tech ,College Park,MD,ACC Tournament,L,3,5
+2006-02-17,14:00:00,Away,Louisville,Statesboro,GA,,L,1,2
+2006-02-17,16:00:00,Away,Charleston Southern,Statesboro,GA,,W,3,0
+2006-02-18,10:00:00,Away,Troy,Statesboro,GA,,W,1,0
+2006-02-18,12:00:00,Away,Georgia Southern,Statesboro,GA,,W,5,2
+2006-02-19,10:00:00,Away,Louisville,Statesboro,GA,,L,4,5
+2006-02-23,21:00:00,Away,Texas Tech,Palm Springs,CA,,L,0,3
+2006-02-24,15:30:00,Away,Cal Poly,Palm Springs,CA,,W,2,1
+2006-02-24,18:30:00,Away,Stanford,Palm Springs,CA,,L,5,8
+2006-02-25,12:30:00,Away,Arizona,Palm Springs,CA,,L,1,8
+2006-02-25,16:00:00,Away,Cal St Fullerton,Palm Springs,CA,,W,6,2
+2006-02-26,12:00:00,Away,UIC,Palm Springs,CA,,W,11,5
+2006-03-03,11:00:00,Away,Western Michigan,Tallahassee,FL,,W,5,4
+2006-03-03,13:30:00,Away,Michigan,Tallahassee,FL,,L,0,6
+2006-03-04,13:30:00,Away,Florida St,Tallahassee,FL,,L,5,6
+2006-03-04,18:30:00,Away,Western Michigan,Tallahassee,Fla,,L,3,4
+2006-03-10,9:00:00,Home,George Mason,Virginia Beach,VA,,W,6,3
+2006-03-10,11:00:00,Away,James Madison,Virginia Beach,VA,,W,1,0
+2006-03-11,9:00:00,Away,Norfolk St,Virginia Beach,VA,,W,8,0
+2006-03-11,11:00:00,Away,Cornell,Virginia Beach,VA,,W,8,0
+2006-03-15,14:00:00,Away,James Madison,Harrisonburg,VA,,L,0,2
+2006-03-15,16:00:00,Away,James Madison,Harrisonburg,VA,,L,0,2
+2006-03-18,12:00:00,Away,Georgia Tech,Atlanta,GA,,L,1,4
+2006-03-18,14:00:00,Away,Georgia Tech,Atlanta,GA,,L,0,9
+2006-03-19,12:00:00,Away,Georgia Tech,Atlanta,GA,,L,1,5
+2006-03-22,14:00:00,Home,Morgan St,College Park,MD,,W,9,0
+2006-03-22,16:00:00,Home,Morgan St,College Park,MD,,W,13,0
+2006-03-25,14:00:00,Away,North Carolina,Chapel Hill,NC,,L,0,5
+2006-03-26,13:00:00,Away,North Carolina,Chapel Hill,NC,,W,4,3
+2006-03-26,15:00:00,Away,North Carolina,Chapel Hill,NC,,L,1,6
+2006-03-28,14:00:00,Home,Brown,College Park,MD,,W,8,0
+2006-03-28,16:00:00,Home,Brown,College Park,MD,,W,4,1
+2006-03-29,15:00:00,Home,Mount St. Mary's,College Park,MD,,W,2,0
+2006-03-29,17:00:00,Home,Mount St. Mary's,College Park,MD,,W,8,0
+2006-04-01,13:00:00,Away,North Carolina St,Raleigh,NC,,L,1,4
+2006-04-01,15:00:00,Away,North Carolina St,Raleigh,NC,,W,1,0
+2006-04-02,13:00:00,Away,North Carolina St,Raleigh,NC,,L,0,3
+2006-04-05,17:00:00,Home,Delaware St,College Park,MD,,W,10,1
+2006-04-05,19:00:00,Home,Delaware St,College Park,MD,,W,6,5
+2006-04-09,12:00:00,Home,Virginia Tech,College Park,MD,,W,1,0
+2006-04-09,14:00:00,Home,Virginia Tech,College Park,MD,,W,5,1
+2006-04-12,17:00:00,Home,George Mason,College Park,MD,,W,12,0
+2006-04-12,19:00:00,Home,George Mason,College Park,MD,,W,9,1
+2006-04-15,13:00:00,Home,Virginia,College Park,MD,,L,1,2
+2006-04-15,15:00:00,Home,Virginia,College Park,MD,,L,1,4
+2006-04-16,13:00:00,Home,Virginia,College Park,MD,,W,1,0
+2006-04-19,15:00:00,Home,George Washington,College Park,MD,,W,5,0
+2006-04-19,17:00:00,Home,George Washington,College Park,MD,,L,4,6
+2006-04-22,13:00:00,Away,Boston College,Boston,MA,,W,9,5
+2006-04-22,15:00:00,Away,Boston College,Chestnut Hill,MA,,L,5,8
+2006-04-23,11:00:00,Away,Boston College,Boston,MA,,L,1,4
+2006-04-26,15:00:00,Away,Towson,Baltimore,MD,,W,2,0
+2006-04-26,17:00:00,Away,Towson,Baltimore,MD,,L,4,5
+2006-05-03,14:00:00,Away,Delaware,Newark,DE,,W,2,0
+2006-05-03,16:00:00,Away,Delaware,Newark,DE,,W,5,0
+2006-05-06,13:00:00,Home,Florida St,College Park,MD,,W,6,4
+2006-05-06,15:00:00,Home,Florida St,College Park,MD,,L,1,4
+2006-05-07,13:00:00,Home,Florida St,College Park,MD,,L,4,8
+2006-05-11,12:30:00,Away,North Carolina ,Chapel Hill,NC,ACC Tournament,L,3,5
+2006-05-11,20:00:00,Away,Virginia Tech ,Chapel Hill,NC,ACC Tournament,L,0,1
+2007-02-16,11:00:00,Away,Michigan,Boca Raton,FL,,L,1,6
+2007-02-16,13:00:00,Away,East Carolina,Boca Raton,FL,,W,9,1
+2007-02-17,9:00:00,Away,St. John's,Boca Raton,FL,,W,8,1
+2007-02-17,11:00:00,Home,Long Island,Boca Raton,FL,,W,4,1
+2007-02-18,13:00:00,Away,Michigan,Boca Raton,FL,,L,1,2
+2007-02-23,13:00:00,Home,Nevada,Palm Springs,CA,,W,6,5
+2007-02-23,18:00:00,Away,Texas,Palm Springs,CA,,W,3,2
+2007-02-24,18:00:00,Away,UCLA,Palm Springs,CA,,L,0,6
+2007-02-24,23:00:00,Home,Loyola Marymount,Palm Springs,CA,,L,6,9
+2007-02-25,14:00:00,Home,Cal,Palm Springs,CA,,L,1,11
+2007-02-25,16:00:00,Home,UNLV,Palm Springs,CA,,L,0,1
+2007-03-02,12:00:00,Home,Central Michigan,Tampa,FL,,W,3,2
+2007-03-02,16:30:00,Home,New Mexico St,Tampa,FL,,L,1,3
+2007-03-04,8:30:00,Home,Auburn,Tampa,FL,,W,5,4
+2007-03-04,11:00:00,Home,Utah,Tampa,FL,,L,1,8
+2007-03-09,16:00:00,Away,Rhode Island,College Park,MD,,W,7,2
+2007-03-09,18:00:00,Home,Louisville,College Park,MD,,L,1,2
+2007-03-10,13:00:00,Home,Princeton,College Park,MD,,L,1,4
+2007-03-10,17:00:00,Home,Central Connecticut St,College Park,MD,,W,11,2
+2007-03-11,11:00:00,Home,Central Connecticut St,College Park,MD,,W,8,0
+2007-03-13,14:00:00,Away,UMBC,Baltimore,MD,,W,12,3
+2007-03-13,16:00:00,Away,UMBC,Baltimore,MD,,W,4,1
+2007-03-21,15:00:00,Home,Mount St. Mary's,College Park,MD,,W,5,0
+2007-03-21,17:00:00,Home,Mount St. Mary's,College Park,MD,,W,3,1
+2007-03-24,13:00:00,Away,Virginia,Charlottesville,VA,,W,15,1
+2007-03-24,15:00:00,Away,Virginia,Charlottesville,VA,,W,8,3
+2007-03-25,13:00:00,Away,Virginia,Charlottesville,VA,,W,11,1
+2007-03-28,14:00:00,Away,Georgetown,Washington,DC,,W,6,5
+2007-03-28,16:00:00,Away,Georgetown,Washington,DC,,W,6,0
+2007-03-31,12:00:00,Away,Florida St,Tallahassee,FL,,L,2,4
+2007-03-31,14:00:00,Away,Florida St,Tallahassee,FL,,L,0,6
+2007-04-01,11:30:00,Away,Florida St,Tallahassee,FL,,L,0,8
+2007-04-04,17:00:00,Home,Delaware St,College Park,MD,,W,5,2
+2007-04-04,19:00:00,Home,Delaware St,College Park,MD,,W,6,3
+2007-04-07,13:00:00,Home,North Carolina,College Park,MD,,W,3,2
+2007-04-08,12:00:00,Home,North Carolina,College Park,MD,,L,0,4
+2007-04-08,14:00:00,Home,North Carolina,Colelge Park,MD,,L,2,7
+2007-04-11,16:00:00,Home,Georgetown,College Park,MD,,W,8,0
+2007-04-11,18:00:00,Home,Georgetown,College Park,MD,,W,14,0
+2007-04-14,11:00:00,Home,Georgia Tech,College Park,MD,,L,3,7
+2007-04-14,13:00:00,Home,Georgia Tech,College Park,MD,,L,2,7
+2007-04-18,16:00:00,Home,George Washington,College Park,MD,,W,8,1
+2007-04-18,18:00:00,Home,George Washington,College Park,MD,,W,8,0
+2007-04-21,12:00:00,Away,Virginia Tech,Blacksburg,VA,,L,4,5
+2007-04-21,14:00:00,Away,Virginia Tech,Blacksburg,VA,,L,1,11
+2007-04-22,13:00:00,Away,Virginia Tech,Blacksburg,VA,,W,5,4
+2007-04-25,16:00:00,Home,Towson,College Park,MD,,W,4,2
+2007-04-25,18:00:00,Home,Towson,College Park,MD,,W,5,1
+2007-04-28,13:00:00,Home,NC St,College Park,MD,,L,2,4
+2007-04-28,15:00:00,Home,NC St,College Park,MD,,W,7,4
+2007-04-29,13:00:00,Home,NC St,College Park,MD,,L,1,8
+2007-05-02,16:00:00,Home,Penn St,College Park,MD,,L,0,6
+2007-05-02,18:00:00,Home,Penn St,College Park,MD,,L,3,4
+2007-05-05,13:00:00,Home,Boston College,College Park,MD,,L,5,6
+2007-05-05,15:00:00,Home,Boston College,College Park,MD,,W,7,4
+2007-05-06,13:00:00,Home,Boston College,College Park,MD,,W,3,2
+2007-05-10,10:00:00,Away,Georgia Tech,Tallahassee,FL,,L,1,5
+2007-05-10,20:00:00,Away,NC St,Tallahassee,FL,,W,3,2
+2007-05-11,20:00:00,Away,Florida St,Tallahassee,FL,,L,4,7
+2008-02-08,11:00:00,Away,Michigan,Boca Raton,FL,,W,2,0
+2008-02-08,13:00:00,Home,Massachusetts,Boca Raton,FL,,W,2,1
+2008-02-09,13:00:00,Home,North Florida,Boca Raton,FL,,W,7,0
+2008-02-10,11:00:00,Home,Michigan,Boca Raton,FL,,L,2,5
+2008-02-16,11:00:00,Away,Coastal Carolina,Myrtle Beach,SC,,W,4,3
+2008-02-16,13:30:00,Away,Elon,Myrtle Beach,SC,,W,5,4
+2008-02-17,11:00:00,Home,Elon,Myrtle Beach,SC,,W,9,8
+2008-02-17,13:30:00,Away,Coastal Carolina,Myrtle Beach,SC,,W,3,0
+2008-02-27,14:00:00,Home,UMBC,College Park,MD,,W,5,1
+2008-02-27,16:00:00,Home,UMBC,College Park,MD,,W,8,0
+2029-02-01,12:00:00,Away,Villanova,Orlando,FL,,W,4,0
+2029-02-01,14:00:00,Home,Vermont,Orlando,FL,,W,7,1
+2008-03-01,12:00:00,Home,Florida A&M,Orlando,FL,,W,6,4
+2008-03-02,14:00:00,Home,UCF,Orlando,FL,,W,1,0
+2008-03-05,16:00:00,Home,James Madison,College Park,MD,,W,3,0
+2008-03-05,18:00:00,Home,James Madison,College Park,MD,,W,7,4
+2008-03-08,15:00:00,Home,Seton Hall,College Park,MD,,W,3,2
+2008-03-09,14:00:00,Home,Columbia,College Park,MD,,W,2,0
+2008-03-09,16:00:00,Home,Fordham,College Park,MD,,W,13,12
+2008-03-12,16:00:00,Home,Pittsburgh,College Park,MD,,W,6,0
+2008-03-12,18:00:00,Home,Pittsburgh,College Park,MD,,L,4,5
+2008-03-14,17:00:00,Home,St Peter's,College Park,MD,,W,8,0
+2008-03-15,13:00:00,Home,Lehigh,College Park,MD,,L,0,1
+2008-03-15,17:00:00,Home,Valparaiso,College Park,MD,,L,5,7
+2008-03-16,13:00:00,Home,UMBC,College Park,MD,,W,5,2
+2008-03-16,15:00:00,Home,Niagara,College Park,MD,,W,4,1
+2008-03-21,17:00:00,Away,North Carolina,Chapel Hill,NC,,L,1,2
+2008-03-22,13:00:00,Away,North Carolina,Chapel Hill,NC,,L,1,5
+2008-03-22,15:00:00,Away,North Carolina,Chapel Hill,NC,,L,2,3
+2008-03-29,13:00:00,Home,Virginia Tech,College Park,MD,,L,1,8
+2008-03-29,15:00:00,Home,Virginia Tech,College Park,MD,,W,2,1
+2008-03-30,13:00:00,Home,Virginia Tech,College Park,MD,,L,3,8
+2008-04-02,17:00:00,Home,Delaware St,College Park,MD,,W,2,0
+2008-04-02,19:00:00,Home,Delaware St,College Park,MD,,W,4,1
+2008-04-05,15:00:00,Home,Florida St,College Park,MD,,W,3,1
+2008-04-05,17:00:00,Home,Florida St,College Park,MD,,L,0,3
+2008-04-06,12:00:00,Home,Florida St,College Park,MD,,W,4,3
+2008-04-08,16:00:00,Home,Georgetown,College Park,MD,,W,1,0
+2008-04-08,18:00:00,Home,Georgetown,College Park,MD,,W,8,0
+2008-04-12,13:00:00,Away,North Carolina St,Raleigh,NC,,L,1,3
+2008-04-12,15:00:00,Away,North Carolina St,Raleigh,NC,,W,5,3
+2008-04-13,13:00:00,Away,North Carolina St,Raleigh,NC,,L,6,7
+2008-04-16,16:00:00,Away,Penn St,University Park,PA,,L,0,7
+2008-04-16,18:00:00,Away,Penn St,University Park,PA,,L,2,3
+2008-04-19,13:00:00,Home,Virginia,College Park,MD,,L,4,5
+2008-04-19,15:00:00,Home,Virginia,College Park,MD,,W,6,1
+2008-04-20,13:00:00,Home,Virginia,College Park,MD,,W,2,0
+2008-04-23,16:00:00,Home,George Washington,College Park,MD,,W,3,0
+2008-04-23,18:00:00,Home,George Washington,College Park,MD,,W,17,1
+2008-04-26,13:00:00,Away,Georgia Tech,Atlanta,GA,,L,2,0
+2008-04-26,15:00:00,Away,Georgia Tech,Atlanta,GA,,L,2,4
+2008-04-27,13:00:00,Away,Georgia Tech,Atlanta,GA,,L,3,4
+2008-04-30,15:00:00,Away,Towson,Baltimore,MD,,L,3,4
+2008-04-30,17:00:00,Away,Towson,Baltimore,MD,,W,12,3
+2008-05-03,13:00:00,Away,Boston College,Boston,MA,,L,2,5
+2008-05-03,15:00:00,Away,Boston College,Boston,MA,,L,1,3
+2008-05-04,13:00:00,Away,Boston College,Boston,MA,,W,8,0
+2008-05-08,12:30:00,Away,Virginia Tech,College Park,MD,,L,4,7
+2008-05-08,20:00:00,Away,Boston College,College Park,MD,,L,3,7
+2009-02-06,16:00:00,Home,Massachusetts,Boca Raton,FL,,L,3,8
+2009-02-06,20:00:00,Away,Florida Atlantic,Boca Raton,FL,,L,2,3
+2009-02-07,11:00:00,Home,Long Island,Boca Raton,FL,,L,0,1
+2009-02-07,13:00:00,Away,Michigan,Boca Raton,FL,,L,0,8
+2009-02-08,11:00:00,Away,Pittsburgh,Boca Raton,FL,,L,0,4
+2009-02-19,18:30:00,Away,UC Santa Barbara,Palm Springs,CA,,W,7,3
+2009-02-19,23:00:00,Away,Hawai'i,Palm Springs,CA,,W,3,2
+2009-02-20,18:30:00,Home,Fresno St,Palm Springs,CA,,L,1,2
+2009-02-21,15:30:00,Home,California,Palm Springs,CA,,L,0,7
+2009-02-21,23:00:00,Home,Nevada,Palm Springs,CA,,W,8,7
+2009-02-22,14:00:00,Away,UCLA,Palm Springs,CA,,L,0,5
+2009-02-27,13:30:00,Home,Centenary College,Deland,FL,,W,8,3
+2009-02-27,18:30:00,Away,Stetson,Deland,FL,,W,3,2
+2009-02-28,11:00:00,Away,Kentucky,Deland,FL,,L,1,10
+2009-02-28,13:30:00,Home,Centenary College,Deland,FL,,W,3,0
+2009-03-07,12:00:00,Home,Dartmouth,College Park,MD,,W,6,0
+2009-03-07,14:00:00,Home,Manhattan,College Park,MD,,L,2,4
+2009-03-08,11:00:00,Home,Gardner-Webb,College Park,MD,,W,1,0
+2009-03-08,12:55:00,Home,Dartmouth,College Park,MD,,W,10,2
+2009-03-11,17:00:00,Home,Towson,College Park,MD,,W,7,3
+2009-03-13,15:00:00,Home,Seton Hall,College Park,MD,,W,11,1
+2009-03-14,13:00:00,Away,Delaware,College Park,MD,,W,4,3
+2009-03-14,15:00:00,Home,Fordham,College Park,MD,,L,2,6
+2009-03-15,15:00:00,Home,Mount St. Mary's,College Park,MD,,W,7,1
+2009-03-15,17:00:00,Home,Howard,College Park,MD,,W,8,4
+2009-03-21,13:00:00,Home,North Carolina,College Park,MD,,L,0,7
+2009-03-21,15:00:00,Home,North Carolina,College Park,MD,,L,2,10
+2009-03-22,13:00:00,Home,North Carolina,College Park,MD,,L,1,2
+2009-03-25,17:00:00,Home,Northwestern,College Park,MD,,L,2,7
+2009-03-28,12:00:00,Home,North Carolina St,College Park,MD,,L,0,1
+2009-03-28,14:00:00,Home,North Carolina St,College Park,MD,,W,4,3
+2009-03-29,13:00:00,Home,North Carolina St,College Park,MD,,W,7,6
+2009-04-04,13:00:00,Away,Virginia,Charlottesville,VA,,W,5,2
+2009-04-04,15:00:00,Away,Virginia,Charlottesville,VA,,W,5,0
+2009-04-05,13:00:00,Away,Virginia,Charlottesville,VA,,W,8,4
+2009-04-08,17:00:00,Home,Hofstra,College Park,MD,,W,4,2
+2009-04-08,19:00:00,Home,Hofstra,College Park,MD,,L,1,5
+2009-04-11,16:00:00,Away,Florida St,Tallahassee,FL,,L,0,1
+2009-04-11,18:00:00,Away,Florida St,Tallahassee,FL,,L,0,8
+2009-04-12,13:00:00,Away,Florida St,Tallahassee,FL,,L,0,1
+2009-04-18,13:00:00,Home,Boston College,College Park,MD,,W,4,3
+2009-04-18,15:00:00,Home,Boston College,College Park,MD,,W,4,3
+2009-04-19,13:00:00,Home,Boston College,College Park,MD,,L,1,2
+2009-04-23,17:00:00,Home,Penn St,College Park,MD,,L,2,3
+2009-04-23,19:00:00,Home,Penn St,College Park,MD,,W,2,0
+2009-04-25,12:00:00,Away,Virginia Tech,Blacksburg,VA,,W,5,4
+2009-04-25,15:00:00,Away,Virginia Tech,Blacksburg,VA,,L,5,6
+2009-04-26,13:00:00,Away,Virginia Tech,Blacksburg,VA,,W,4,1
+2009-04-28,17:00:00,Home,George Washington,College Park,MD,,W,2,0
+2009-04-28,19:00:00,Home,George Washington,College Park,MD,,W,2,1
+2009-04-29,17:00:00,Home,Delaware St,College Park,MD,,W,9,1
+2009-04-29,19:00:00,Home,Delaware St,College Park,MD,,W,7,0
+2009-05-02,13:00:00,Home,Georgia Tech,College Park,MD,,L,2,9
+2009-05-02,15:00:00,Home,Georgia Tech,College Park,MD,,L,0,8
+2009-05-08,19:30:00,Home,Virginia Tech,Raleigh,NC,,L,0,3
+2010-02-19,16:00:00,Home,Kentucky,Boca Raton,FL,,L,0,1
+2010-02-19,20:00:00,Home,Florida Atlantic,Boca Raton,FL,,W,2,1
+2010-02-20,11:00:00,Home,Pittsburgh,Boca Raton,FL,,W,4,3
+2010-02-20,16:00:00,Home,Mississippi,Boca Raton,FL,,L,0,2
+2010-02-21,11:00:00,Away,Mississippi,Boca Raton,FL,,L,1,2
+2010-02-26,13:30:00,Away,Alabama,Columbus,GA,,L,1,4
+2010-02-26,18:30:00,Home,Iowa,Columbus,GA,,W,11,1
+2010-02-27,16:00:00,Home,Mississippi St,Columbus,GA,,L,4,5
+2010-02-27,18:30:00,Home,UCF,Columbus,GA,,W,3,2
+2010-02-28,12:30:00,Home,Michigan,Columbus,GA,,L,0,9
+2010-03-05,14:30:00,Home,Princeton,College Park,MD,,W,9,0
+2010-03-05,17:00:00,Home,Mount St. Mary's,College Park,MD,,W,2,0
+2010-03-06,15:00:00,Home,Towson,College Park,MD,,L,0,2
+2010-03-06,17:30:00,Home,Princeton,College Park,MD,,W,7,5
+2010-03-07,12:30:00,Home,Mount St. Mary's,College Park,MD,,W,4,2
+2010-03-10,17:00:00,Home,Howard,College Park,MD,,W,3,0
+2010-03-10,19:00:00,Home,Howard,College Park,MD,,W,9,1
+2010-03-14,13:00:00,Home,Virginia,College Park,MD,,L,3,5
+2010-03-14,15:00:00,Home,Virginia,College Park,MD,,L,1,3
+2010-03-17,9:00:00,Home,Akron,Kissimmee,FL,,W,9,1
+2010-03-17,11:00:00,Home,Columbia,Kissimmee,FL,,W,9,1
+2010-03-19,13:00:00,Neutral,Oklahoma St,Tampa,FL,,W,2,1
+2010-03-19,18:00:00,Home,Florida Gulf Coast,Tampa,FL,,W,3,0
+2010-03-20,10:00:00,Home,North Florida,Tampa,FL,,W,1,0
+2010-03-20,12:00:00,Home,Dartmouth,Tampa,FL,,W,11,4
+2010-03-21,9:00:00,Home,Texas Tech,Tampa,FL,,W,3,2
+2010-03-24,17:00:00,Home,James Madison,College Park,MD,,W,8,0
+2010-03-24,19:00:00,Home,James Madison,College Park,MD,,W,9,7
+2010-03-27,13:00:00,Away,Georgia Tech,Atlanta,GA,,L,8,9
+2010-03-27,15:00:00,Away,Georgia Tech,Atlanta,GA,,L,1,3
+2010-03-28,9:00:00,Away,Georgia Tech,Atlanta,GA,,L,0,1
+2010-03-30,17:00:00,Home,HOFSTRA,College Park,MD,,L,0,2
+2010-03-30,19:00:00,Home,HOFSTRA,College Park,MD,,W,10,2
+2010-04-03,13:00:00,Home,Florida St,College Park,MD,,L,0,2
+2010-04-03,15:00:00,Home,Florida St,College Park,MD,,L,2,3
+2010-04-04,13:00:00,Home,Florida St,College Park,MD,,W,6,2
+2010-04-07,17:00:00,Home,George Washington,College Park,MD,,W,8,0
+2010-04-07,19:00:00,Home,George Washington,College Park,MD,,W,8,0
+2010-04-10,13:00:00,Home,Virginia Tech,College Park,MD,,W,7,0
+2010-04-10,15:00:00,Home,Virginia Tech,College Park,MD,,L,1,2
+2010-04-11,13:00:00,Home,Virginia Tech,College Park,MD,,W,7,3
+2010-04-14,16:00:00,Away,Towson,Baltimore,MD,,L,0,1
+2010-04-17,13:00:00,Away,North Carolina,Chapel Hill,NC,,W,5,2
+2010-04-17,15:00:00,Away,North Carolina,Chapel Hill,NC,,W,2,1
+2010-04-18,13:00:00,Away,North Carolina,Chapel Hill,NC,,L,0,4
+2010-04-24,12:00:00,Away,North Carolina St,Raleigh,NC,,L,0,2
+2010-04-24,15:00:00,Away,North Carolina St,Raleigh,NC,,W,2,0
+2010-04-25,12:30:00,Away,North Carolina St,Raleigh,NC,,W,1,0
+2010-04-28,17:00:00,Home,Delaware St,College Park,MD,,W,8,0
+2010-04-28,19:00:00,Home,Delaware St,College Park,MD,,W,5,1
+2010-05-01,13:00:00,Home,Longwood,College Park,MD,,W,3,1
+2010-05-01,15:00:00,Home,Longwood,College Park,MD,,L,1,5
+2010-05-09,11:30:00,Away,Boston College,Chestnut Hill,MA,,W,5,1
+2010-05-09,13:30:00,Away,Boston College,Chestnut Hill,MA,,L,3,6
+2010-05-14,12:00:00,Away,Florida St,Blacksburg,Va,,L,0,3
+2010-05-21,19:00:00,Away,Fordham,College Park,MD,,L,1,2
+2010-05-22,14:00:00,Away,Syracuse,College Park,MD,,W,4,1
+2010-05-22,16:00:00,Home,Fordham,College Park,MD,,L,2,5
+2011-02-11,15:00:00,Home,Iowa,Athens,GA,,L,0,1
+2011-02-12,17:00:00,Away,Illinois St,Athens,GA,,L,0,5
+2011-02-12,19:00:00,Home,Lipscomb,Athens,GA,,W,4,3
+2011-02-13,11:00:00,Home,East Carolina,Athens,GA,,W,3,1
+2011-02-13,13:00:00,Away,Georgia,Athens,GA,,L,2,8
+2011-02-25,9:00:00,Home,Pittsburgh,Boca Raton,FL,,W,1,0
+2011-02-25,13:00:00,Away,Kent St,Boca Raton,FL,,L,3,5
+2011-02-26,9:00:00,Away,Connecticut,Boca Raton,FL,,W,3,1
+2011-02-26,11:00:00,Home,Jacksonville,Boca Raton,FL,,W,2,1
+2011-02-27,13:00:00,Home,Pittsburgh,Boca Raton,FL,,W,5,4
+2011-03-04,12:30:00,Home,Illinois St,Orlando,FL,,L,7,9
+2011-03-04,15:00:00,Away,Illinois,Orlando,FL,,L,1,3
+2011-03-05,12:30:00,Home,Longwood,Orlando,FL,,W,16,0
+2011-03-05,15:00:00,Home,Notre Dame,Orlando,FL,,L,3,5
+2011-03-06,11:30:00,Home,Temple,Orlando,FL,,W,1,0
+2011-03-09,17:00:00,Home,East Carolina,College Park,MD,,L,2,3
+2011-03-09,19:00:00,Home,East Carolina,College Park,MD,,W,4,2
+2011-03-11,15:00:00,Home,Nebraska,Tampa,FL,,L,4,6
+2011-03-11,20:00:00,Away,Colorado St,Tampa,FL,,W,6,0
+2011-03-12,12:30:00,Home,St. John's,Tampa,FL,,W,4,3
+2011-03-12,15:00:00,Home,Saint Joseph's,Tampa,FL,,W,4,1
+2011-03-13,12:00:00,Home,Quinnipiac,Tampa,FL,,W,4,1
+2011-03-16,17:00:00,Home,Fordham,College Park,MD,,W,7,1
+2011-03-16,19:00:00,Home,Fordham,College Park,MD,,W,5,4
+2011-03-18,12:15:00,Home,Princeton,College Park,MD,,W,6,0
+2011-03-19,11:15:00,Home,Utah,College Park,MD,,W,6,0
+2011-03-19,13:30:00,Away,Villanova,College Park,MD,,W,5,0
+2011-03-20,12:15:00,Home,Hampton,College Park,MD,,W,9,1
+2011-03-20,14:30:00,Away,Villanova,College Park,MD,,W,1,0
+2011-03-26,12:00:00,Away,Virginia,Charlottesville,VA,,W,13,0
+2011-03-26,14:00:00,Away,Virginia,Charlottesville,VA,,W,7,0
+2011-04-02,13:00:00,Home,Georgia Tech,College Park,MD,,L,2,5
+2011-04-02,15:00:00,Home,Georgia Tech,College Park,MD,,L,3,4
+2011-04-03,13:00:00,Home,Georgia Tech,College Park,MD,,L,0,2
+2011-04-06,17:00:00,Home,Georgetown,College Park,MD,,W,10,0
+2011-04-06,19:00:00,Home,Georgetown,College Park,MD,,W,1,0
+2011-04-09,13:00:00,Home,Boston College,College Park,MD,,W,4,3
+2011-04-09,15:00:00,Home,Boston College,College Park,MD,,W,1,0
+2011-04-10,13:00:00,Home,Boston College,College Park,MD,,W,4,3
+2011-04-17,11:00:00,Home,NC St,College Park,MD,,W,3,1
+2011-04-17,13:00:00,Home,NC St,College Park,MD,,L,1,2
+2011-04-19,17:00:00,Home,Binghamton,College Park,MD,,W,5,0
+2011-04-19,19:00:00,Home,Binghamton,College Park,MD,,W,3,2
+2011-04-23,13:00:00,Away,Florida St,Tallahassee,FL,,W,1,0
+2011-04-23,15:00:00,Away,Florida St,Tallahassee,FL,,W,7,4
+2011-04-24,12:00:00,Away,Florida St,Tallahassee,FL,,L,0,5
+2011-04-27,17:00:00,Home,Delaware St,College Park,MD,,W,13,0
+2011-04-27,19:00:00,Home,Delaware St,College Park,MD,,W,3,1
+2011-04-30,12:00:00,Away,Virginia Tech,Blacksburg,VA,,W,3,2
+2011-04-30,14:00:00,Away,Virginia Tech,Blacksburg,VA,,W,3,2
+2011-05-01,13:00:00,Away,Virginia Tech,Blacksburg,VA,,W,2,0
+2011-05-07,13:00:00,Home,North Carolina,College Park,MD,,L,0,2
+2011-05-07,15:00:00,Home,North Carolina,College Park,MD,,L,5,6
+2011-05-08,13:00:00,Home,North Carolina,College Park,MD,,W,5,0
+2011-05-13,12:00:00,Home,NC St,Atlanta,GA,,W,4,3
+2011-05-14,13:00:00,Home,North Carolina,Atlanta,GA,,L,3,7
+2011-05-20,19:30:00,Home,East Carolina,College Park,MD,,L,1,5
+2011-05-21,14:30:00,Away,Lehigh,College Park,MD,,W,11,0
+2011-05-21,17:00:00,Home,East Carolina,College Park,MD,,L,0,2
+2012-02-17,9:00:00,Home,Long Island,Boca Raton,FL,,W,3,1
+2012-02-17,11:00:00,Home,Michigan,Boca Raton,FL,,W,7,3
+2012-02-18,16:00:00,Home,Wright St,Boca Raton,FL,,L,0,8
+2012-02-18,20:00:00,Home,Florida Atlantic,Boca Raton,FL,,W,4,1
+2012-02-19,11:00:00,Home,Kentucky,Boca Raton,FL,,W,2,1
+2012-02-22,15:00:00,Home,Oakland,College Park,MD,,W,7,3
+2012-02-22,17:00:00,Home,Oakland,College Park,MD,,W,10,2
+2012-02-24,12:15:00,Home,Southern Illinois,Kissimmee,FL,,W,12,8
+2012-02-24,14:30:00,Away,Marshall,Kissimmee,FL,,W,10,2
+2012-02-25,14:30:00,Home,Wisconsin,Kissimmee,FL,,W,4,3
+2012-02-25,16:45:00,Away,St. John's,Kissimmee,FL,,L,3,11
+2012-02-26,10:00:00,Home,Marshall,Kissimmee,FL,,W,2,1
+2012-03-02,12:00:00,Home,Massachusetts,Tuscaloosa,AL,,L,6,16
+2012-03-02,14:30:00,Away,Alabama,Tuscaloosa,AL,,L,1,19
+2012-03-03,12:00:00,Away,UAB,Tuscaloosa,AL,,W,4,2
+2012-03-03,17:00:00,Home,Alabama,Tuscaloosa,AL,,L,1,9
+2012-03-04,12:00:00,Home,Massachusetts,Tuscaloosa,AL,,L,1,4
+2012-03-09,15:00:00,Home,Princeton,College Park,MD,,W,7,3
+2012-03-09,17:30:00,Away,Rhode Island,College Park,MD,,W,17,7
+2012-03-10,15:00:00,Home,Princeton,College Park,MD,,W,10,6
+2012-03-10,17:30:00,Away,Kent St,College Park,MD,,W,2,1
+2012-03-11,13:30:00,Home,Kent St,College Park,MD,,W,5,0
+2012-03-16,16:30:00,Home,Bryant University,Clearwater,FL,,L,4,6
+2012-03-16,18:45:00,Home,Canisius,Clearwater,FL,,W,8,0
+2012-03-17,16:00:00,Home,Boston University,Clearwater,FL,,L,0,1
+2012-03-17,18:15:00,Away,Illinois,Clearwater,FL,,W,5,0
+2012-03-18,11:15:00,Home,Florida A&M,Clearwater,FL,,L,0,9
+2012-03-21,17:00:00,Away,Florida Gulf Coast,Ft Myers,FL,,L,1,3
+2012-03-21,19:00:00,Away,Florida Gulf Coast,Ft Myers,FL,,L,1,9
+2012-03-31,13:00:00,Home,Virginia Tech,College Park,MD,,L,0,5
+2012-03-31,15:00:00,Home,Virginia Tech,College Park,MD,,L,5,7
+2012-04-01,13:00:00,Home,Virginia Tech,College Park,MD,,L,1,5
+2012-04-04,17:00:00,Home,George Mason,College Park,MD,,W,3,1
+2012-04-04,19:00:00,Home,George Mason,College Park,MD,,W,6,3
+2012-04-07,13:00:00,Away,Georgia Tech,Atlanta,GA,,L,1,6
+2012-04-07,15:00:00,Away,Georgia Tech,Atlanta,GA,,L,6,9
+2012-04-08,14:00:00,Away,Georgia Tech,Atlanta,GA,,L,0,5
+2012-04-14,13:00:00,Home,Virginia,College Park,MD,,W,3,1
+2012-04-14,15:00:00,Home,Virginia,College Park,MD,,W,6,5
+2012-04-15,13:00:00,Home,Virginia,College Park,MD,,W,8,0
+2012-04-18,17:00:00,Home,Howard,College Park,MD,,W,9,0
+2012-04-18,19:00:00,Home,Howard,College Park,MD,,W,10,0
+2012-04-21,13:00:00,Away,North Carolina St,Raleigh,NC,,W,5,3
+2012-04-21,15:00:00,Away,North Carolina St,Raleigh,NC,,L,4,5
+2012-04-22,12:00:00,Away,North Carolina St,Raleigh,NC,,W,4,3
+2012-04-25,17:00:00,Home,Delaware St,College Park,MD,,W,15,0
+2012-04-25,19:00:00,Home,Delaware St,College Park,MD,,W,10,5
+2012-04-28,13:00:00,Away,Boston College,Chestnut Hill,MA,,W,4,3
+2012-04-28,15:00:00,Away,Boston College,Chestnut Hill,MA,,W,4,1
+2012-04-29,13:00:00,Away,Boston College,Chestnut Hill,MA,,W,11,0
+2012-05-05,13:00:00,Home,Florida St,College Park,MD,,L,3,4
+2012-05-05,15:00:00,Home,Florida St,College Park,MD,,W,4,1
+2012-05-06,12:00:00,Home,Florida St,College Park,MD,,W,4,3
+2012-05-10,19:30:00,Away,Virginia Tech,Chapel Hill,NC,,L,2,5
+2012-05-18,18:30:00,Away,Texas Tech,Seattle,WA,,L,1,6
+2012-05-19,18:30:00,Home,Harvard,Seattle,WA,,L,2,3
+2013-02-15,11:00:00,Neutral,LIU Brooklyn,Boca Raton,FL,,W,5,3
+2013-02-16,10:00:00,Away,Massachusetts,Boca Raton,FL,,W,16,8
+2013-02-16,12:00:00,Neutral,Michigan,Boca Raton,FL,,L,2,10
+2013-02-17,13:00:00,Neutral,LIU Brooklyn,Boca Raton,FL,,W,18,1
+2013-02-21,16:00:00,Neutral,Missouri,Palm Springs,CA,,L,1,13
+2013-02-21,23:30:00,Neutral,Oregon St,Palm Springs,CA,,L,0,8
+2013-02-22,23:30:00,Neutral,Nebraska,Palm Springs,CA,,L,1,8
+2013-02-23,15:00:00,Neutral,UCLA,Palm Springs,CA,,L,3,4
+2013-02-23,17:30:00,Neutral,California,Palm Springs,CA,,L,2,3
+2013-03-01,11:00:00,Neutral,Fordham,Kissimmee,FL,,W,10,2
+2013-03-01,15:30:00,Neutral,Mississippi St,Kissimmee,FL,,L,3,4
+2013-03-02,12:15:00,Neutral,Hofstra,Kissimmee,FL,,L,3,11
+2013-03-02,16:45:00,Neutral,Fairfield,Kissimmee,FL,,L,7,9
+2013-03-03,13:30:00,Neutral,Notre Dame,Kissimmee,FL,,L,3,5
+2013-03-05,15:30:00,Home,Seton Hall,College Park,MD,,L,2,6
+2013-03-08,15:00:00,Home,St. John's,College Park,MD,,W,3,2
+2013-03-08,17:00:00,Home,Radford,College Park,MD,,L,3,4
+2013-03-09,11:00:00,Home,Iowa,College Park,MD,,L,4,9
+2013-03-09,13:00:00,Home,Ohio St,College Park,MD,,L,9,10
+2013-03-10,13:00:00,Home,Binghamton,College Park,MD,,W,10,9
+2013-03-12,17:00:00,Home,Hampton,College Park,MD,,W,14,6
+2013-03-12,19:00:00,Home,Hampton,College Park,MD,,W,13,5
+2013-03-15,16:00:00,Neutral,Boston University,Clearwater,FL,,W,3,2
+2013-03-15,18:15:00,Neutral,Oklahoma St,Clearwater,FL,,L,0,1
+2013-03-16,11:00:00,Neutral,Temple,Clearwater,FL,,W,6,1
+2013-03-16,16:00:00,Neutral,Valparaiso,Clearwater,FL,,W,4,0
+2013-03-17,11:45:00,Neutral,Dartmouth,Clearwater,FL,,L,0,4
+2013-03-23,13:00:00,Home,Virginia,College Park,MD,,W,6,5
+2013-03-23,15:00:00,Home,Virginia,College Park,MD,,W,9,6
+2013-03-24,13:00:00,Home,Virginia,College Park,MD,,W,6,5
+2013-03-27,17:00:00,Home,Howard,College Park,MD,,W,20,0
+2013-03-27,19:00:00,Home,Howard,College Park,MD,,W,13,0
+2013-03-30,13:00:00,Home,Florida St,College Park,MD,,W,5,4
+2013-03-30,15:00:00,Home,Florida St,College Park,MD,,L,1,13
+2013-03-31,12:00:00,Home,Florida St,College Park,MD,,L,9,14
+2013-04-03,16:00:00,Home,Coppin St,College Park,MD,,W,9,0
+2013-04-03,18:00:00,Home,Coppin St,College Park,MD,,W,7,3
+2013-04-06,13:00:00,Away,North Carolina St,Raleigh,NC,,W,2,1
+2013-04-06,15:00:00,Away,North Carolina St,Raleigh,NC,,L,0,4
+2013-04-07,13:00:00,Away,North Carolina St,Raleigh,NC,,L,1,7
+2013-04-10,16:00:00,Away,George Mason,Fairfax,VA,,L,3,8
+2013-04-10,18:00:00,Away,George Mason,Fairfax,VA,,W,4,3
+2013-04-13,13:00:00,Away,Georgia Tech,Atlanta,GA,,W,8,6
+2013-04-13,15:00:00,Away,Georgia Tech,Atlanta,GA,,L,4,5
+2013-04-14,13:00:00,Away,Georgia Tech,Atlanta,GA,,W,14,5
+2013-04-20,13:00:00,Home,Boston College,College Park,MD,,W,6,0
+2013-04-20,15:00:00,Home,Boston College,College Park,MD,,L,6,8
+2013-04-21,13:00:00,Home,Boston College,College Park,MD,,W,10,1
+2013-04-24,17:00:00,Home,Delaware St,College Park,MD,,W,11,0
+2013-04-24,19:00:00,Home,Delaware St,College Park,MD,,W,12,3
+2013-04-27,13:00:00,Home,North Carolina,College Park,MD,,W,9,4
+2013-04-27,15:00:00,Home,North Carolina,College Park,MD,,W,9,1
+2013-04-28,13:00:00,Home,North Carolina,College Park,MD,,L,1,8
+2013-05-04,12:00:00,Away,Virginia Tech,Blacksburg,VA,,W,3,1
+2013-05-04,14:00:00,Away,Virginia Tech,Blacksburg,VA,,W,9,7
+2013-05-05,13:00:00,Away,Virginia Tech,Blacksburg,VA,,L,0,4
+2013-05-09,11:00:00,Neutral,Virginia Tech,Tallahassee,FL,,L,5,8
+2014-02-07,11:00:00,Neutral,DePaul,Miami,FL,,L,4,8
+2014-02-07,16:00:00,Away,Florida International,Miami,FL,,L,9,14
+2014-02-08,10:00:00,Neutral,Jacksonville,Miami,FL,,L,2,6
+2014-02-08,13:00:00,Neutral,Florida International,Miami,FL,,L,5,6
+2014-02-09,11:00:00,Neutral,Jacksonville,Miami,FL,,L,0,1
+2014-02-14,15:00:00,Away,Mississippi St,Boca Raton,FL,,L,1,3
+2014-02-14,17:30:00,Away,South Carolina,Boca Raton,FL,,W,8,4
+2014-02-15,12:30:00,Away,South Carolina,Boca Raton,FL,,L,2,8
+2014-02-15,17:30:00,Away,Florida Atlantic,Boca Raton,FL,,L,0,4
+2014-02-16,13:00:00,Away,LIU,Boca Raton,FL,,L,1,2
+2014-02-20,18:00:00,Away,Washington,Palm Springs,CA,,L,0,11
+2014-02-20,20:30:00,Away,Long Beach St,Palm Springs,CA,,L,5,11
+2014-02-21,13:00:00,Away,Stanford,Palm Springs,CA,,L,1,2
+2014-02-22,20:00:00,Neutral,UCLA,Palm Springs,CA,,L,5,10
+2014-02-22,22:30:00,Neutral,Cal Poly,Palm Springs,CA,,L,0,4
+2014-02-28,13:15:00,Neutral,Nebraska-Omaha,Kissimmee,FL,,L,1,4
+2014-02-28,15:30:00,Neutral,Radford,Kissimmee,FL,,L,1,6
+2014-03-01,15:30:00,Neutral,Auburn,Kissimmee,FL,,L,3,16
+2014-03-01,17:45:00,Neutral,Oregon,Kissimmee,FL,,L,2,10
+2014-03-02,10:00:00,Neutral,Florida,Kissimmee,FL,,L,0,16
+2014-03-15,13:00:00,Home,Georgia Tech,College Park,MD,,L,4,7
+2014-03-15,15:00:00,Home,Georgia Tech,College Park,MD,,L,1,4
+2014-03-16,13:00:00,Home,Georgia Tech,College Park,MD,,L,6,7
+2014-03-22,13:00:00,Away,North Carolina,Chapel Hill,NC,,L,5,11
+2014-03-22,15:00:00,Away,North Carolina,Chapel Hill,NC,,W,12,11
+2014-03-23,10:00:00,Away,North Carolina,Chapel Hill,NC,,L,3,12
+2014-04-02,15:00:00,Home,Syracuse,College Park,MD,,L,4,9
+2014-04-02,17:00:00,Home,Syracuse,College Park,MD,,W,7,6
+2014-04-05,10:00:00,Away,Florida St,Tallahassee,FL,,L,2,10
+2014-04-05,12:00:00,Away,Florida St,Tallahassee,FL,,L,6,14
+2014-04-06,11:00:00,Away,Florida St,Tallahassee,FL,,L,5,7
+2014-04-12,13:00:00,Away,Boston College,Chestnut Hill,MA,,L,0,8
+2014-04-12,15:00:00,Away,Boston College,Chestnut Hill,MA,,L,2,4
+2014-04-13,13:00:00,Away,Boston College,Chestnut Hill,MA,,W,4,2
+2014-04-16,17:00:00,Home,Delaware St,College Park,MD,,W,10,2
+2014-04-19,13:00:00,Home,Virginia Tech,College Park,MD,,L,0,3
+2014-04-19,15:00:00,Home,Virginia Tech,College Park,MD,,L,6,8
+2014-04-20,13:00:00,Home,Virginia Tech,College Park,MD,,W,8,1
+2014-04-23,17:00:00,Home,Howard,College Park,MD,,W,15,0
+2014-04-23,19:00:00,Home,Howard,College Park,MD,,W,10,4
+2014-04-27,13:00:00,Away,Notre Dame,South Bend,IN,,L,0,9
+2014-04-27,15:00:00,Away,Notre Dame,South Bend,IN,,L,5,8
+2014-04-28,19:00:00,Away,Notre Dame,South Bend,IN,,L,1,9
+2014-05-03,13:00:00,Home,Pittsburgh,College Park,MD,,W,8,0
+2014-05-03,15:00:00,Home,Pittsburgh,College Park,MD,,W,7,6
+2014-05-04,13:00:00,Home,Pittsburgh,College Park,MD,,W,7,5
+2015-02-06,12:00:00,Neutral,Virginia Tech,Myrtle Beach,SC,,L,6,7
+2015-02-07,10:00:00,Neutral,Lafayette,Myrtle Beach,SC,,W,8,2
+2015-02-07,12:30:00,Neutral,Virginia Tech,Myrtle Beach,SC,,L,10,11
+2015-02-08,11:45:00,Away,Coastal Carolina,Myrtle Beach,SC,,W,3,1
+2015-02-08,14:15:00,Away,Coastal Carolina,Myrtle Beach,SC,,W,4,3
+2015-02-13,11:15:00,Neutral,Providence,Boca Raton,FL,,W,4,0
+2015-02-13,13:30:00,Neutral,Drexel,Boca Raton,FL,,W,6,0
+2015-02-14,9:00:00,Neutral,Tulsa,Boca Raton,FL,,L,0,1
+2015-02-14,13:30:00,Neutral,Drexel,Boca Raton,FL,,W,3,1
+2015-02-15,13:30:00,Away,Florida Atlantic,Boca Raton,FL,,L,5,6
+2015-02-19,18:00:00,Neutral,Notre Dame,Palm Springs,CA,,L,6,8
+2015-02-19,21:00:00,Neutral,BYU,Palm Springs,CA,,W,2,1
+2015-02-20,23:30:00,Neutral,Nevada,Palm Springs,CA,,W,4,3
+2015-02-21,15:30:00,Neutral,UNLV,Palm Springs,CA,,W,5,2
+2015-02-21,23:00:00,Neutral,Long Beach St,Palm Springs,CA,,W,10,7
+2015-02-27,11:00:00,Neutral,Fordham,Orlando,FL,,W,4,3
+2015-02-27,15:30:00,Neutral,Mississippi St,Orlando,FL,,L,2,6
+2015-03-01,10:00:00,Neutral,Missouri,Orlando,FL,,L,1,5
+2015-03-01,12:15:00,Neutral,Northern Iowa,Orlando,FL,,W,10,0
+2015-03-03,14:30:00,Away,UCF,Orlando,FL,,L,6,8
+2015-03-07,13:00:00,Neutral,Rhode Island,Harrisonburg,VA,,W,18,3
+2015-03-08,12:00:00,Neutral,Stony Brook,Harrisonburg,VA,,W,2,1
+2015-03-08,16:30:00,Neutral,James Madison,Harrisonburg,VA,,L,5,10
+2015-03-15,16:00:00,Home,Lafayette,College Park,MD,,W,9,1
+2015-03-15,18:00:00,Home,Lafayette,College Park,MD,,W,14,0
+2015-03-16,11:00:00,Home,Princeton,College Park,MD,,W,6,5
+2015-03-17,15:00:00,Home,St Francis,College Park,MD,,L,2,3
+2015-03-17,17:00:00,Home,St Francis,College Park,MD,,L,2,5
+2015-03-20,17:00:00,Away,Iowa,Iowa City,IA,,W,15,14
+2015-03-21,15:00:00,Away,Iowa,Iowa City,IA,,L,4,8
+2015-03-22,14:00:00,Away,Iowa,Iowa City,IA,,W,19,0
+2015-03-25,17:00:00,Home,Dartmouth,College Park,MD,,W,18,8
+2015-03-25,19:00:00,Home,Dartmouth,College Park,MD,,L,5,8
+2015-03-27,18:00:00,Home,Ohio St,College Park,MD,,W,11,10
+2015-03-29,12:00:00,Home,Ohio St,College Park,MD,,L,6,18
+2015-03-29,15:00:00,Home,Ohio St,College Park,MD,,L,5,9
+2015-04-04,12:00:00,Away,Indiana,Bloomington,IN,,W,6,3
+2015-04-04,15:00:00,Away,Indiana,Bloomington,IN,,L,8,11
+2015-04-05,13:00:00,Away,Indiana,Bloomington,IN,,W,21,8
+2015-04-10,13:00:00,Home,Illinois,College Park,MD,,L,3,7
+2015-04-11,13:00:00,Home,Illinois,College Park,MD,,L,8,14
+2015-04-12,12:30:00,Home,Illinois,College Park,MD,,L,4,5
+2015-04-17,18:00:00,Home,Penn St,College Park,MD,,W,8,6
+2015-04-18,13:00:00,Home,Penn St,College Park,MD,,W,7,6
+2015-04-19,11:00:00,Home,Penn St,College Park,MD,,W,5,3
+2015-04-21,14:00:00,Away,Rutgers,Piscataway,NJ,,L,5,6
+2015-04-21,16:00:00,Away,Rutgers,Piscataway,NJ,,L,3,11
+2015-04-24,17:00:00,Home,Michigan,College Park,MD,,L,0,8
+2015-04-25,13:00:00,Home,Michigan,College Park,MD,,L,2,10
+2015-04-26,13:00:00,Home,Michigan,College Park,MD,,L,0,1
+2015-05-01,16:00:00,Away,Michigan St,East Lansing,MI,,L,3,4
+2015-05-02,13:00:00,Away,Michigan St,East Lansing,MI,,W,6,5
+2015-05-03,13:00:00,Away,Michigan St,East Lansing,MI,,L,4,7
+2015-05-07,14:30:00,Neutral,Penn St,Columbus,OH,,L,6,10
+2016-02-12,11:30:00,Neutral,Boston College,Tempe,AZ,,L,1,9
+2016-02-12,16:00:00,Neutral,Boise St,Tempe,AZ,,W,9,4
+2016-02-13,11:30:00,Neutral,Oregon,Tempe,AZ,,L,2,7
+2016-02-13,14:00:00,Neutral,San Diego,Tempe,AZ,,W,13,9
+2016-02-14,11:00:00,Neutral,Utah St,Tempe,AZ,,L,0,5
+2016-02-19,12:30:00,Neutral,Alabama,Atlanta,GA,,L,0,1
+2016-02-19,17:30:00,Away,Georgia St,Atlanta,GA,,L,3,4
+2016-02-20,15:00:00,Neutral,Mercer,Atlanta,GA,,W,6,5
+2016-02-20,17:30:00,Neutral,Miami OH,Atlanta,GA,,L,1,7
+2016-02-21,10:00:00,Neutral,Alabama,Atlanta,GA,,L,5,10
+2016-02-26,11:15:00,Neutral,Boston University,Boca Raton,FL,,W,3,2
+2016-02-26,13:30:00,Neutral,Columbia,Boca Raton,FL,,L,1,4
+2016-02-27,13:30:00,Neutral,Columbia,Boca Raton,FL,,L,2,4
+2016-02-27,20:15:00,Away,Florida Atlantic,Boca Raton,FL,,W,8,7
+2016-02-28,11:15:00,Neutral,Stony Brook,Boca Raton,FL,,L,4,10
+2016-03-04,15:30:00,Neutral,Georgetown,Nats' Youth Academy (Washington DC),DC,,L,4,5
+2016-03-05,11:00:00,Neutral,Monmouth,GW Softball Field (Washington DC),DC,,L,2,11
+2016-03-05,13:30:00,Neutral,George Washington,GW Softball Field (Washington DC),DC,,L,7,9
+2016-03-06,11:00:00,Neutral,Columbia,Nats' Youth Academy (Washington DC),DC,,W,5,4
+2016-03-11,12:00:00,Neutral,Saint Louis,Norman,OK,,L,2,11
+2016-03-11,14:15:00,Neutral,Brigham Young,Norman,OK,,L,4,7
+2016-03-12,14:15:00,Neutral,Saint Louis,Norman,OK,,W,8,0
+2016-03-12,18:45:00,Away,Oklahoma,Norman,OK,,L,2,11
+2016-03-13,13:00:00,Away,Oklahoma,Norman,OK,,L,0,11
+2016-03-18,16:30:00,Home,Massachusetts,Maryland Softball Stadium,,,L,4,5
+2016-03-18,18:45:00,Home,North Dakota St,Maryland Softball Stadium,,,L,1,10
+2016-03-20,16:00:00,Home,Binghamton,Maryland Softball Stadium,,,L,3,9
+2016-03-25,18:00:00,Away,Ohio St,Columbus,OH,,L,2,12
+2016-03-26,14:00:00,Away,Ohio St,Columbus,OH,,L,3,4
+2016-03-27,13:00:00,Away,Ohio St,Columbus,OH,,L,4,13
+2016-04-01,18:00:00,Home,Nebraska,Maryland Softball Stadium,,,W,7,4
+2016-04-02,14:00:00,Home,Nebraska,Maryland Softball Stadium,,,L,2,14
+2016-04-03,13:00:00,Home,Nebraska,Maryland Softball Stadium,,,L,4,26
+2016-04-05,16:00:00,Home,Saint Francis (PA),Maryland Softball Stadium,,,W,6,3
+2016-04-05,18:15:00,Home,Saint Francis (PA),Maryland Softball Stadium,,,L,3,7
+2016-04-08,18:00:00,Home,Michigan St,Maryland Softball Stadium,,,L,3,12
+2016-04-10,11:00:00,Home,Michigan St,Maryland Softball Stadium,,,W,10,2
+2016-04-10,13:00:00,Home,Michigan St,Maryland Softball Stadium,,,W,9,8
+2016-04-15,18:00:00,Away,Penn St,University Park,PA,,L,6,9
+2016-04-16,16:00:00,Away,Penn St,University Park,PA,,L,0,4
+2016-04-17,13:00:00,Away,Penn St,University Park,PA,,L,3,5
+2016-04-20,15:00:00,Home,Rutgers,Maryland Softball Stadium,,,L,0,4
+2016-04-20,17:00:00,Home,Rutgers,Maryland Softball Stadium,,,L,3,6
+2016-04-22,18:00:00,Away,Michigan,Ann Arbor,MI,,L,1,9
+2016-04-23,14:00:00,Away,Michigan,Ann Arbor,MI,,L,0,16
+2016-04-24,13:00:00,Away,Michigan,Ann Arbor,MI,,L,0,8
+2016-04-29,19:00:00,Away,Minnesota,Minneapolis,MN,,L,0,10
+2016-04-30,14:00:00,Away,Minnesota,Minneapolis,MN,,L,1,11
+2016-05-01,13:00:00,Away,Minnesota,Minneapolis,MN,,L,0,9
+2016-05-07,13:00:00,Home,Indiana,Maryland Softball Stadium,,,L,3,8
+2016-05-07,15:00:00,Home,Indiana,Maryland Softball Stadium,,,L,1,12
+2016-05-08,13:00:00,Home,Indiana,Maryland Softball Stadium,,,W,10,8
+2017-02-10,12:30:00,Neutral,Minnesota,Austin,TX,,L,2,3
+2017-02-10,15:00:00,Neutral,Colorado St,Austin,TX,,L,5,14
+2017-02-11,12:00:00,Neutral,Colorado St,Austin,TX,,L,3,6
+2017-02-11,19:30:00,Away,Texas,Austin,TX,,L,2,10
+2017-02-12,11:00:00,Neutral,Minnesota,Austin,TX,,L,2,10
+2017-02-17,9:00:00,Neutral,FIU,Gainesville,FL,,L,1,6
+2017-02-17,11:15:00,Neutral,Northwestern St,Gainesville,FL,,L,2,13
+2017-02-18,9:00:00,Neutral,Florida A&M,Gainesville,FL,,L,1,5
+2017-02-18,11:15:00,Away,Florida,Gainesville,FL,,W,4,2
+2017-02-24,12:15:00,Neutral,Drake,Lafayette,LA,,L,0,3
+2017-02-24,14:30:00,Neutral,Bowling Green,Lafayette,LA,,W,3,0
+2017-02-25,13:45:00,Neutral,Bradley,Lafayette,LA,,L,2,4
+2017-02-25,16:00:00,Away,Louisiana-Lafayette,Lafayette,LA,,L,0,3
+2017-02-26,10:00:00,Neutral,Dartmouth,Lafayette,LA,,T,5,5
+2017-03-03,11:00:00,Neutral,Butler,Columbia,MO,,L,2,3
+2017-03-03,16:00:00,Neutral,Oregon,Columbia,MO,,L,0,14
+2017-03-04,13:30:00,Neutral,Stephen F Austin,Columbia,MO,,L,4,5
+2017-03-04,16:00:00,Away,Missouri,Columbia,MO,,L,0,2
+2017-03-05,13:30:00,Away,Missouri,Columbia,MO,,W,9,8
+2017-03-10,12:00:00,Neutral,UT Martin,Riverside,CA,,L,2,8
+2017-03-10,14:30:00,Neutral,Iona,Riverside,CA,,L,4,8
+2017-03-11,17:00:00,Away,UC Riverside,Riverside,CA,,W,6,3
+2017-03-12,12:00:00,Neutral,Weber St,Riverside,CA,,L,2,6
+2017-03-18,12:30:00,Home,Binghamton,College Park,MD,,W,5,4
+2017-03-18,17:30:00,Home,Buffalo,College Park,MD,,W,6,3
+2017-03-19,14:00:00,Home,Binghamton,College Park,MD,,L,7,9
+2017-03-19,16:30:00,Home,James Madison,College Park,MD,,L,0,8
+2017-03-20,15:00:00,Home,St. John's,College Park,MD,,W,3,0
+2017-03-24,18:00:00,Home,Ohio St,College Park,MD,,L,2,6
+2017-03-25,13:00:00,Home,Ohio St,College Park,MD,,L,6,10
+2017-03-26,13:00:00,Home,Ohio St,College Park,MD,,L,0,22
+2017-03-31,16:00:00,Away,Michigan St,East Lansing,MI,,L,3,11
+2017-04-01,13:00:00,Away,Michigan St,East Lansing,MI,,L,0,2
+2017-04-02,13:00:00,Away,Michigan St,East Lansing,MI,,L,2,6
+2017-04-08,13:00:00,Away,Northwestern,Evanston,IL,,L,4,11
+2017-04-08,15:00:00,Away,Northwestern,Evanston,IL,,L,5,6
+2017-04-09,13:00:00,Away,Northwestern,Evanston,IL,,W,5,4
+2017-04-14,18:00:00,Home,Michigan,College Park,MD,,L,1,5
+2017-04-15,13:00:00,Home,Michigan,College Park,MD,,W,2,1
+2017-04-16,13:00:00,Home,Michigan,College Park,MD,,L,3,4
+2017-04-21,13:00:00,Away,Indiana,Bloomington,IN,,L,1,2
+2017-04-21,15:00:00,Away,Indiana,Bloomington,IN,,L,0,5
+2017-04-23,13:00:00,Away,Indiana,Bloomington,IN,,L,1,2
+2017-04-28,18:00:00,Home,Penn St,College Park,MD,,L,3,10
+2017-04-29,13:00:00,Home,Penn St,College Park,MD,,W,2,1
+2017-04-30,13:00:00,Home,Penn St,College Park,MD,,L,5,7
+2017-05-03,13:00:00,Away,Rutgers,New Brunswick,NJ,,W,4,3
+2017-05-03,16:30:00,Away,Rutgers,New Brunswick,NJ,,L,3,4
+2017-05-05,18:00:00,Home,Wisconsin,College Park,MD,,L,3,8
+2017-05-06,15:30:00,Home,Wisconsin,College Park,MD,,L,3,5
+2017-05-07,13:00:00,Home,Wisconsin,College Park,MD,,L,0,5
+2018-02-09,13:30:00,Neutral,Cal Poly,Los Angeles,CA,,L,3,4
+2018-02-09,18:30:00,Away,UCLA,Los Angeles,CA,,L,1,5
+2018-02-10,17:30:00,Neutral,UC Riverside,Los Angeles,CA,,L,0,5
+2018-02-10,20:00:00,Neutral,Cal Poly,Los Angeles,CA,,L,3,4
+2018-02-11,12:00:00,Neutral,Middle Tennessee,Los Angeles,CA,,W,2,1
+2018-02-17,10:00:00,Neutral,Delaware,Auburn,AL,,W,4,1
+2018-02-17,15:00:00,Neutral,Auburn,Auburn,AL,,L,1,12
+2018-02-18,9:00:00,Neutral,Saint Francis (PA),Auburn,AL,,L,0,1
+2018-02-18,11:30:00,Away,Auburn,Auburn,AL,,L,0,8
+2018-02-23,11:30:00,Neutral,Iowa St,Gainesville,FL,,W,9,5
+2018-02-23,16:30:00,Away,Florida,Gainesville,FL,,L,2,7
+2018-02-24,9:00:00,Neutral,Georgia Southern,Gainesville,FL,,L,1,4
+2018-02-24,14:00:00,Away,Florida,Gainesville,FL,,L,0,12
+2018-02-25,8:00:00,Neutral,Illinois St,Gainesville,FL,,L,7,8
+2018-03-02,10:00:00,Neutral,IUPUI,Louisville,KY,,W,2,0
+2018-03-02,15:00:00,Away,Louisville,Louisville,KY,,L,1,4
+2018-03-03,17:30:00,Neutral,Eastern Illinois,Louisville,KY,,W,3,2
+2018-03-03,19:30:00,Neutral,IUPUI,Louisville,KY,,W,5,1
+2018-03-04,10:00:00,Neutral,Miami OH,Louisville,KY,,L,1,2
+2018-03-08,16:30:00,Home,Utah,College Park,MD,,L,1,7
+2018-03-09,15:00:00,Home,Miami OH,College Park,MD,,L,0,2
+2018-03-09,17:30:00,Home,Jacksonville,College Park,MD,,L,0,2
+2018-03-10,12:30:00,Home,Utah,College Park,MD,,L,2,6
+2018-03-10,15:00:00,Home,Yale,College Park,MD,,W,4,2
+2018-03-16,18:00:00,Neutral,Tennessee,Honolulu,HI,,L,1,7
+2018-03-16,20:30:00,Neutral,Cleveland St,Honolulu,HI,,W,5,4
+2018-03-17,18:00:00,Neutral,North Dakota,Honolulu,HI,,W,2,1
+2018-03-17,20:00:00,Neutral,Tennessee,Honolulu,HI,,L,0,10
+2018-03-18,16:00:00,Away,Hawai'i,Honolulu,HI,,W,7,6
+2018-03-24,13:00:00,Away,Penn St,State College,PA,,L,3,8
+2018-03-24,15:30:00,Away,Penn St,State College,PA,,W,8,0
+2018-03-25,13:00:00,Away,Penn St,State College,PA,,W,4,3
+2018-03-30,18:00:00,Home,Iowa,College Park,MD,,W,2,1
+2018-03-31,13:00:00,Home,Iowa,College Park,MD,,W,5,2
+2018-04-01,12:00:00,Home,Iowa,College Park,MD,,W,1,0
+2018-04-06,14:00:00,Away,Illinois,Champaign,IL,,L,0,11
+2018-04-07,14:00:00,Away,Illinois,Champaign,IL,,L,1,7
+2018-04-08,13:00:00,Away,Illinois,Champaign,IL,,L,2,20
+2018-04-11,15:00:00,Home,Saint Francis (PA),College Park,MD,,L,0,3
+2018-04-11,17:30:00,Home,Saint Francis (PA),College Park,MD,,W,7,4
+2018-04-13,18:00:00,Home,Indiana,College Park,MD,,L,1,10
+2018-04-14,13:00:00,Home,Indiana,College Park,MD,,L,3,9
+2018-04-14,15:30:00,Home,Indiana,College Park,MD,,L,1,9
+2018-04-17,17:00:00,Home,Rutgers,College Park,MD,,W,5,3
+2018-04-17,19:30:00,Home,Rutgers,College Park,MD,,W,8,7
+2018-04-20,18:00:00,Away,Michigan,Ann Arbor,MI,,L,0,6
+2018-04-21,14:00:00,Away,Michigan,Ann Arbor,MI,,L,1,12
+2018-04-22,12:30:00,Away,Michigan,Ann Arbor,MI,,L,0,8
+2018-04-27,18:00:00,Away,Ohio St,Columbus,OH,,L,5,13
+2018-04-28,14:00:00,Away,Ohio St,Columbus,OH,,L,5,9
+2018-04-29,12:00:00,Away,Ohio St,Columbus,OH,,L,2,5
+2018-05-04,15:00:00,Home,Michigan St,College Park,MD,,L,4,7
+2018-05-04,18:00:00,Home,Michigan St,College Park,MD,,L,5,6
+2018-05-05,13:00:00,Home,Michigan St,College Park,MD,,L,12,15
+2018-05-10,14:30:00,Neutral,Illinois,Madison,WI,,L,3,5
+2019-02-08,11:00:00,Neutral,Murray St,Troy,AL,,W,6,3
+2019-02-08,16:00:00,Away,Troy,Troy,AL,,L,3,4
+2019-02-09,11:00:00,Neutral,Alabama,Troy,AL,,L,0,10
+2019-02-09,16:00:00,Away,Troy,Troy,AL,,L,1,10
+2019-02-10,11:00:00,Neutral,Murray St,Troy,AL,,W,3,2
+2019-02-15,14:00:00,Neutral,Nicholls St,Houston,TX,,W,2,1
+2019-02-15,16:30:00,Away,Houston,Houston,TX,,W,4,2
+2019-02-16,10:00:00,Neutral,UL-Monroe,Houston,TX,,W,8,0
+2019-02-16,17:30:00,Away,Houston,Houston,TX,,L,4,12
+2019-02-17,10:00:00,Neutral,Nevada,Houston,TX,,W,6,3
+2019-02-22,12:00:00,Neutral,Portland St,Riverside,CA,,L,8,13
+2019-02-22,17:00:00,Away,UC Riverside,Riverside,CA,,W,8,3
+2019-02-23,12:00:00,Neutral,UNLV,Riverside,CA,,W,5,0
+2019-02-23,17:00:00,Away,UC Riverside,Riverside,CA,,L,2,7
+2019-02-24,12:00:00,Neutral,Portland St,Riverside,CA,,W,12,9
+2019-03-01,10:30:00,Neutral,George Washington,Chapel Hill,NC,,L,2,5
+2019-03-02,18:00:00,Away,North Carolina,Chapel Hill,NC,,L,5,11
+2019-03-03,13:00:00,Neutral,UNC Greensboro,Chapel Hill,NC,,W,17,9
+2019-03-08,16:00:00,Neutral,Fairfield,DeLand,FL,,L,5,6
+2019-03-08,18:30:00,Away,Stetson,DeLand,FL,,L,5,6
+2019-03-09,12:30:00,Neutral,UT-Martin,DeLand,FL,,W,5,4
+2019-03-09,15:00:00,Neutral,Bethune-Cookman,DeLand,FL,,W,3,2
+2019-03-10,10:00:00,Neutral,UT-Martin,DeLand,FL,,L,2,3
+2019-03-14,15:00:00,Home,UMBC,College Park,MD,,W,9,2
+2019-03-14,17:30:00,Home,Rhode Island,College Park,MD,,W,6,4
+2019-03-15,15:00:00,Home,Bryant,College Park,MD,,W,9,2
+2019-03-16,15:00:00,Home,Villanova,College Park,MD,,W,6,5
+2019-03-19,16:00:00,Home,Virginia,College Park,MD,,L,1,7
+2019-03-22,18:00:00,Home,Minnesota,College Park,MD,,L,5,6
+2019-03-23,14:00:00,Home,Minnesota,College Park,MD,,L,5,19
+2019-03-24,13:00:00,Home,Minnesota,College Park,MD,,L,3,5
+2019-03-29,18:00:00,Home,Ohio St,College Park,MD,,W,3,2
+2019-03-30,14:00:00,Home,Ohio St,College Park,MD,,L,1,10
+2019-03-31,13:00:00,Home,Ohio St,College Park,MD,,L,3,15
+2019-04-05,18:00:00,Away,Michigan St,East Lansing,MI,,W,11,9
+2019-04-06,13:00:00,Away,Michigan St,East Lansing,MI,,L,7,8
+2019-04-07,13:00:00,Away,Michigan St,East Lansing,MI,,L,3,11
+2019-04-12,18:00:00,Away,Indiana,Bloomington,IN,,L,0,8
+2019-04-13,14:00:00,Away,Indiana,Bloomington,IN,,W,4,3
+2019-04-13,16:00:00,Away,Indiana,Bloomington,IN,,L,1,10
+2019-04-20,13:00:00,Home,Penn St,College Park,MD,,L,1,12
+2019-04-20,15:00:00,Home,Penn St,College Park,MD,,L,3,9
+2019-04-21,13:00:00,Home,Penn St,College Park,MD,,W,5,4
+2019-04-23,13:00:00,Away,Rutgers,Piscataway,NJ,,L,1,4
+2019-04-23,15:00:00,Away,Rutgers,Piscataway,NJ,,L,6,7
+2019-04-26,18:30:00,Away,Nebraska,Lincoln,NE,,L,2,11
+2019-04-27,14:00:00,Away,Nebraska,Lincoln,NE,,L,0,14
+2019-04-28,12:00:00,Away,Nebraska,Lincoln,NE,,L,1,9
+2019-05-03,18:00:00,Home,Michigan,College Park,MD,,L,1,6
+2019-05-04,13:00:00,Home,Michigan,College Park,MD,,L,0,8
+2019-05-05,14:00:00,Home,Michigan,College Park,MD,,L,3,12
+2020-02-06,14:00:00,Neutral,Wichita St,Austin,TX,,L,0,8
+2020-02-06,19:00:00,Away,Texas,Austin,TX,,L,0,17
+2020-02-07,17:30:00,Neutral,Colorado St,Austin,TX,,L,1,5
+2020-02-08,12:30:00,Neutral,Lamar,Austin,TX,,L,6,7
+2020-02-08,20:00:00,Neutral,Texas A&M-Corpus Christi,Austin,TX,,W,3,1
+2020-02-14,14:30:00,Away,Clemson,Clemson,SC,,L,1,5
+2020-02-15,10:00:00,Neutral,Pittsburgh,Clemson,SC,,L,5,8
+2020-02-15,12:30:00,Away,Clemson,Clemson,SC,,L,2,21
+2020-02-16,10:00:00,Neutral,Pittsburgh,Clemson,SC,,W,10,9
+2020-02-21,14:00:00,Neutral,Furman,Statesboro,GA,,W,9,2
+2020-02-22,12:30:00,Neutral,Monmouth,Statesboro,GA,,L,1,2
+2020-02-22,15:00:00,Neutral,Evansville,Statesboro,GA,,W,1,0
+2020-02-23,12:00:00,Away,Georgia Southern,Statesboro,GA,,W,4,2
+2020-02-28,10:00:00,Neutral,Southern Utah,Tempe,AZ,,W,3,2
+2020-02-28,16:30:00,Away,Arizona St,Tempe,AZ,,L,0,8
+2029-02-01,9:00:00,Neutral,Southern Utah,Tempe,AZ,,W,3,2
+2029-02-01,11:30:00,Neutral,Wisconsin,Tempe,AZ,,W,5,4
+2020-03-01,12:00:00,Away,Arizona St,Tempe,AZ,,L,2,16
+2020-03-06,10:30:00,Neutral,Ball St,Miami,FL,,W,3,0
+2020-03-06,13:00:00,Neutral,Tulsa,Miami,FL,,L,0,4
+2020-03-07,12:30:00,Neutral,Tulsa,Miami,FL,,W,5,0
+2020-03-07,19:30:00,Away,Florida International,Miami,FL,,W,5,3
+2020-03-08,12:00:00,Neutral,Samford,Miami,FL,,W,11,3
+2021-02-26,16:15:00,Neutral,Minnesota,Leesburg,FL,,L,1,2
+2021-02-26,19:15:00,Neutral,Minnesota,Leesburg,FL,,W,2,1
+2021-02-27,10:20:00,Neutral,Illinois,Leesburg,FL,,L,5,7
+2021-02-27,12:50:00,Neutral,Illinois,Leesburg,FL,,W,3,2
+2021-02-28,9:20:00,Neutral,Wisconsin,Leesburg,FL,,L,0,1
+2021-02-28,11:50:00,Neutral,Wisconsin,Leesburg,FL,,W,2,1
+2021-03-11,10:20:00,Neutral,Purdue,Leesburg,FL,,W,4,1
+2021-03-11,12:50:00,Neutral,Purdue,Leesburg,FL,,L,1,2
+2021-03-12,11:20:00,Neutral,Purdue,Leesburg,FL,,W,8,1
+2021-03-13,10:00:00,Neutral,Iowa,Leesburg,FL,,L,0,1
+2021-03-13,12:30:00,Neutral,Iowa,Leesburg,FL,,W,3,2
+2021-03-14,9:00:00,Neutral,Iowa,Leesburg,FL,,L,3,4
+2021-03-26,15:00:00,Away,Ohio St,Columbus,OH,,L,0,5
+2021-03-27,13:00:00,Away,Ohio St,Columbus,OH,,W,8,2
+2021-03-27,15:30:00,Away,Ohio St,Columbus,OH,,L,3,13
+2021-03-28,13:00:00,Away,Ohio St,Columbus,OH,,L,1,9
+2021-04-02,17:00:00,Home,Northwestern,College Park,MD,,L,0,9
+2021-04-03,14:00:00,Home,Northwestern,College Park,MD,,W,4,3
+2021-04-03,16:30:00,Home,Northwestern,College Park,MD,,L,3,10
+2021-04-04,13:00:00,Home,Northwestern,College Park,MD,,L,4,9
+2021-04-09,15:00:00,Home,Michigan St,College Park,MD,,L,0,2
+2021-04-09,17:00:00,Home,Michigan St,College Park,MD,,W,9,1
+2021-04-10,14:00:00,Home,Michigan St,College Park,MD,,W,6,1
+2021-04-10,16:30:00,Home,Michigan St,College Park,MD,,W,5,4
+2021-04-16,19:30:00,Away,Michigan,Ann Arbor,MI,,L,2,4
+2021-04-17,14:00:00,Away,Michigan,Ann Arbor,MI,,L,0,2
+2021-04-17,16:00:00,Away,Michigan,Ann Arbor,MI,,L,1,5
+2021-04-18,13:00:00,Away,Michigan,Ann Arbor,MI,,L,0,8
+2021-04-23,16:00:00,Home,Penn St,College Park,MD,,W,1,0
+2021-04-23,18:30:00,Home,Penn St,College Park,MD,,W,11,1
+2021-04-24,13:00:00,Home,Penn St,College Park,MD,,L,0,1
+2021-04-25,13:00:00,Home,Penn St,College Park,MD,,W,5,4
+2021-04-30,16:00:00,Away,Nebraska,Lincoln,NE,,L,1,2
+2021-04-30,18:30:00,Away,Nebraska,Lincoln,NE,,L,3,4
+2021-05-01,16:00:00,Away,Nebraska,Lincoln,NE,,L,4,8
+2021-05-02,12:00:00,Away,Nebraska,Lincoln,NE,,L,0,8
+2021-05-07,13:00:00,Away,Rutgers,Piscataway,NJ,,L,1,3
+2021-05-07,15:00:00,Away,Rutgers,Piscataway,NJ,,W,5,0
+2021-05-08,11:00:00,Away,Rutgers,Piscataway,NJ,,W,6,2
+2021-05-09,12:00:00,Away,Rutgers,Piscataway,NJ,,W,4,1
+2021-05-14,17:00:00,Home,Indiana,College Park,MD,,L,0,2
+2021-05-15,14:00:00,Home,Indiana,College Park,MD,,W,3,1
+2021-05-15,16:30:00,Home,Indiana,College Park,MD,,W,5,0
+2021-05-16,12:00:00,Home,Indiana,College Park,MD,,L,2,3
+2022-02-11,12:30:00,Neutral,Tennessee,Miami,FL,,L,1,2
+2022-02-11,5:30:00,Away,Florida International University,Miami,FL,,W,10,2
+2022-02-12,10:00:00,Neutral,UNC Greensboro,Miami,FL,,L,5,6
+2022-02-12,16:30:00,Neutral,UNC Greensboro,Miami,FL,,W,5,3
+2022-02-18,13:30:00,Neutral,Liberty,Orlando,FL,,L,0,9
+2022-02-18,16:00:00,Neutral,Stetson,Orlando,FL,,L,3,8
+2022-02-19,11:00:00,Neutral,FAU,Orlando,FL,,L,0,1
+2022-02-19,13:30:00,Neutral,Bethune-Cookman,Orlando,FL,,W,11,3
+2022-02-20,11:30:00,Neutral,Missouri,Orlando,FL,,W,1,0
+2022-02-25,9:00:00,Neutral,Central Michigan,Myrtle Beach,SC,,L,4,5
+2022-02-25,14:00:00,Neutral,Monmouth,Myrtle Beach,SC,,W,14,4
+2022-02-26,11:30:00,Neutral,North Carolina A&T,Myrtle Beach,SC,,W,7,3
+2022-02-26,14:00:00,Away,Coastal Carolina,Myrtle Beach,SC,,W,5,2
+2022-02-27,9:00:00,Neutral,Dartmouth,Myrtle Beach,SC,,W,5,2
+2022-03-04,11:00:00,Neutral,Villanova,Charlotte,NC,,W,2,1
+2022-03-04,16:00:00,Away,Charlotte,Charlotte,NC,,L,2,5
+2022-03-05,11:00:00,Neutral,Boston College,Charlotte,NC,,L,2,3
+2022-03-05,13:30:00,Neutral,Villanova,Charlotte,NC,,L,7,8
+2022-03-08,17:30:00,Away,Virginia,Charlottesville,VA,,L,2,10
+2022-03-11,12:30:00,Neutral,Arkansas,Harrisonburg,VA,,L,0,6
+2022-03-11,17:30:00,Neutral,James Madison,Harrisonburg,VA,,W,12,5
+2022-03-16,18:00:00,Home,UMBC,College Park,MD ,,L,2,6
+2022-03-18,16:15:00,Home,North Dakota St,College Park,MD ,,L,2,3
+2022-03-18,18:30:00,Home,Monmouth,College Park,MD ,,W,11,4
+2022-03-19,14:15:00,Home,Army,College Park,MD ,,L,7,8
+2022-03-19,16:30:00,Home,Binghamton,College Park,MD ,,W,8,0
+2022-03-20,10:00:00,Home,North Dakota St University,College Park,MD,,W,5,3
+2022-03-24,17:30:00,Away,Penn St,State College,PA,,L,1,2
+2022-03-25,18:00:00,Away,Penn St,State College,PA,,W,8,3
+2022-03-26,12:00:00,Away,Penn St,State College,PA,,W,6,4
+2022-04-01,18:00:00,Home,Iowa,College Park,MD,,W,8,5
+2022-04-02,14:00:00,Home,Iowa,College Park,MD,,W,10,2
+2022-04-03,12:00:00,Home,Iowa,College Park,MD,,W,6,2
+2022-04-06,18:00:00,Home,Coppin St,College Park,MD,,W,8,0
+2022-04-09,13:00:00,Away,Purdue,West Lafayette,IN,,L,2,5
+2022-04-09,15:30:00,Away,Purdue,West Lafayette,IN,,W,9,0
+2022-04-10,12:00:00,Away,Purdue,West Lafayette,IN,,W,2,1
+2022-04-14,18:00:00,Home,Michigan,College Park,MD,,W,5,1
+2022-04-15,18:00:00,Home,Michigan,College Park,MD,,L,3,5
+2022-04-16,12:00:00,Home,Michigan,College Park,MD,,L,2,9
+2022-04-19,16:00:00,Home,Rutgers,College Park,MD,,W,10,7
+2022-04-19,18:30:00,Home,Rutgers,College Park,MD,,W,6,1
+2022-04-22,15:00:00,Away,Minnesota,Minneapolis,MN,,L,1,13
+2022-04-23,14:00:00,Away,Minnesota,Minneapolis,MN,,W,6,1
+2022-04-24,13:00:00,Away,Minnesota,Minneapolis,MN,,W,4,3
+2022-04-29,18:00:00,Away,Michigan St,East Lansing,MI,,W,7,2
+2022-04-30,13:00:00,Away,Michigan St,East Lansing,MI,,W,8,0
+2022-05-01,13:00:00,Away,Michigan St,East Lansing,MI,,L,1,2
+2022-05-08,11:30:00,Home,Ohio St,College Park,MD,,L,0,6
+2022-05-08,15:00:00,Home,Ohio St,College Park,MD,,L,5,8
+2022-05-11,19:00:00,Neutral,Michigan St,East Lansing,MI,,W,7,1
+2022-05-12,12:35:00,Neutral,Michigan,East Lansing,MI,,L,0,7
