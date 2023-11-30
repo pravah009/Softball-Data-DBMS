@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\malun\\source\\repos\\Softball-Data-DBMS\\Softball SQL INSERT Processing\\Softball SQL INSERT Processing\\Softball SQL INSERT Processing.csproj",
+      "projectUniqueName": "C:\\Users\\malun\\Source\\Repos\\UMD-Softball-Data-DBMS\\Softball SQL INSERT Processing\\Softball SQL INSERT Processing\\Softball SQL INSERT Processing.csproj",
       "projectName": "Softball SQL INSERT Processing",
-      "projectPath": "C:\\Users\\malun\\source\\repos\\Softball-Data-DBMS\\Softball SQL INSERT Processing\\Softball SQL INSERT Processing\\Softball SQL INSERT Processing.csproj",
+      "projectPath": "C:\\Users\\malun\\Source\\Repos\\UMD-Softball-Data-DBMS\\Softball SQL INSERT Processing\\Softball SQL INSERT Processing\\Softball SQL INSERT Processing.csproj",
       "packagesPath": "C:\\Users\\malun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\malun\\source\\repos\\Softball-Data-DBMS\\Softball SQL INSERT Processing\\Softball SQL INSERT Processing\\obj\\",
+      "outputPath": "C:\\Users\\malun\\Source\\Repos\\UMD-Softball-Data-DBMS\\Softball SQL INSERT Processing\\Softball SQL INSERT Processing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
